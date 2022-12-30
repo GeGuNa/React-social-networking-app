@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.flexbox-container {
+  margin:10px;    
+  display: flex;
+  background-color: yellow;
+}
+
+.child-items {
+  padding:5px;
+  border:1px solid olive;
+  background-color: tomato;
+}
