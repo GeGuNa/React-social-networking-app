@@ -1,7 +1,54 @@
+body {
+overflow-x: hidden;
+}
+
 @font-face {
 font-family: myFirstFont;
 src: url('../fonts/NotoSans-Regular.ttf');
 }
+
+.frmcl {
+background:#fff;margin-top:10px;padding:10px;text-align:center;
+}
+
+.pdng10 {
+padding:10px;
+}
+
+.alnk21 {
+padding:8px;width: 91%;display: block;margin: auto;/* text-align:center; *//* position: relative; */
+}
+
+.btn3 {
+width:85%;text-align:center;
+}
+
+
+.btn1 {
+    color: #fff;
+    border-radius:5%;
+    background-color: #449d44;
+}
+
+
+.btn2 {
+	border-radius:5%;
+    color: #fff;
+    background-color: #2057a2;
+}
+
+
+input[type='text'] {
+    background: #fff;
+    width: 300px;
+    padding: 10px;
+    color: #808080;
+    border-radius: 3px 3px 3px 3px;
+    outline: none;
+    border: 1px solid #D1D3D6;
+    margin-bottom: 15px;
+}
+
 
 body {
 font-family: myFirstFont;
