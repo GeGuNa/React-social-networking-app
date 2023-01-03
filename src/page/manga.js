@@ -1,9 +1,25 @@
 import React from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, Navigate } from 'react-router-dom'
 
 
 
 function Manga() {
+	
+
+const params = useParams();
+  
+if (isNaN(params.id)) {
+
+return (<Navigate to="/" replace={true} />)
+  
+} else {
+	return (<Manga_view id={Math.abs(params.id)}/>);
+}
+  
+}
+
+
+function Manga_view() {
 	
   const params = useParams();
 	

@@ -2,7 +2,7 @@ import Home from './page/home.js';
 import Login from './page/login.js';
 import Signup from './page/signup.js';
 import Manga from './page/manga.js';
-
+import Profile from './page/profile.js';
 
 
 
@@ -33,7 +33,7 @@ function App() {
 	<Route path="/login" element={<Login/>} />
 	<Route path="/signup" element={<Signup/>} />
 	<Route path="/manga/:id" element={<Manga />} />	
-
+    <Route path="/profile/:id" element={<Profile />} />	
 <Route path="/aba/:id" 
  /* loader={() => {  {console.log('15')}  }}
   action={() => {  {console.log('15')} }}*/
