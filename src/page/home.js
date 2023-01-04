@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { Nav, Left_menu, Footer } from './funcs.js'
 
 
 
@@ -10,10 +11,7 @@ const [cz, Setcz] = useState({aba:'15',baba:'25'})
   return (<>
   
   
-<div className="Nav">
-Main
-</div>
-
+<Nav/>
   
 <div className="col-12">
 
@@ -24,26 +22,7 @@ Main
 <div className="col-2" id="lmenu">
 
 
-<div className="lmenuTitle">Testtt</div>
-
-
-<div className="lmenusub">
-
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-<div className="">wwwwwwwww</div>
-
-</div>
-
-
-
+<Left_menu/>
 
 
 </div>
@@ -147,7 +126,7 @@ Main
 </div>  
   
   
-  
+ <Footer/> 
    
     
     </>
