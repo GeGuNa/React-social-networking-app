@@ -34,14 +34,20 @@ export function Community() {
 
 <div class="flwqe_12"><div class="flwqe_1">Follow</div></div>
 
+</div>
 
+
+<div class="c123zdspltzc123">
+<div><a href="">Home</a></div>
+<div><a href="">About</a></div>
+<div><a href="">Members</a></div>
+<div><a href="">Videos</a></div>
+<div><a href="">Posts</a></div>
+<div><a href="">More</a></div>
 </div>
 
 
 </div>
-
-
-
 
 </div>
 	

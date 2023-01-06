@@ -881,3 +881,21 @@ border-radius:10px 10px 0 0;width:auto;height:485px;
 .brwhite {
 background:#fff;
 }
+
+
+.c123zdspltzc123 {
+    border-top: 1px solid #e3e3e3;
+    padding: 13px;
+display:inline-block;
+width:100%;
+}
+
+
+.c123zdspltzc123 > div{
+float:left;
+}
+
+.c123zdspltzc123 > div:not(:first-child) {
+float:left;
+padding-left:25px;
+}
