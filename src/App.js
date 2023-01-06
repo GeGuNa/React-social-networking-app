@@ -4,7 +4,7 @@ import Login from './page/login.js';
 import Signup from './page/signup.js';
 import Manga from './page/manga.js';
 import Profile from './page/profile.js';
-import Communities from './page/communities.js';
+import Communities, { Community } from './page/communities.js';
 
 
 export function Errordetection() {
@@ -30,6 +30,7 @@ export default function App() {
   <Routes>
 	<Route path="/" element={<Home/>} />
 	<Route path="/login" element={<Login/>} />
+	<Route path="/community/:id" element={<Community/>} />
 	<Route path="/communities" element={<Communities/>} />
 	<Route path="/signup" element={<Signup/>} />
 	<Route path="/manga/:id" element={<Manga />} />	

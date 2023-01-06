@@ -821,3 +821,63 @@ font-size: 1.3rem;margin-bottom:10px;
 .cmnt2z1qwer {
 padding: 0px;border-radius:10px;
 }
+
+
+.c123zdsplt {
+display:inline-block;
+width:100%;
+}
+
+.c123zdsplt > div {
+float:left;
+padding-left:10px;
+}
+
+
+.c123zdsplt > div:last-child {
+float:right !important;
+}
+
+.cqwe1z214_c1 {
+margin-top:10px;
+}
+
+
+.rnmg271_kzr2 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.fntq_22 {
+font-size:1.3rem;
+font-weight:600;
+}
+
+
+.flwqe_12 {
+padding-top:10px;
+padding-right:10px;
+}
+
+
+.flwqe_1 {
+border-radius:15%;
+color:#fff;
+background:gray;
+padding:10px;
+}
+
+
+.cbrd1 {
+border-radius:10px 10px 0 0;
+}
+
+
+.cbrd122 {
+border-radius:10px 10px 0 0;width:auto;height:485px;
+}
+
+.brwhite {
+background:#fff;
+}

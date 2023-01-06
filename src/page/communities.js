@@ -2,7 +2,161 @@ import React from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { Main } from './funcs.js'
 
+export function Community() {
+	return (<>
+	
+<Main>
 
+
+
+<div class="col-9 rnmg24">
+
+
+<div class="cbrd1">
+
+<div class="cbrd122" style={{background:'url(/pics/pexels-luis-del-río-15286.jpg)'}}>
+</div>
+
+</div>
+
+
+<div class="col-12 brwhite">
+
+<div class="c123zdsplt">
+<div><img class="rnmg271_kzr2" src="/pics/channels4_profile.jpg" width="128"/></div>
+
+<div class="ndsg3 cqwe1z214_c1">
+<div class="fntq_22">Warm Autumn</div>
+<div>@warmautumn7100</div>
+<div>2.58K subscribers</div>
+</div>
+
+
+<div class="flwqe_12"><div class="flwqe_1">Follow</div></div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+</div>
+	
+
+<div class="col-3">
+
+
+<div class="rnmg30">
+
+<div class="t21">Followers <a href=""> <b>5000</b> </a></div>
+
+
+<div class="prfrmn">
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+</div>
+
+
+<div class="rnmg31">
+<a href="" class="rnmg32">See all</a>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="rnmg33">
+
+
+<div class="rprflmn">
+
+
+<div><a href="">News</a></div>
+<div><a href="">Reactions</a></div>
+<div><a href="">Search</a></div>
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+</div>	
+
+
+</Main>	
+	
+	
+	</>)
+}
 
 export default function Communities() {
 	
