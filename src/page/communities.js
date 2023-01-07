@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { Main } from './funcs.js'
 
@@ -166,6 +166,43 @@ export function Community() {
 
 export default function Communities() {
 	
+	
+const [List,setList] = useState(
+[
+{
+	name:'battle thru heavens',
+	date: '20/12/2023',
+	followers: '1252',
+	pic: '/pics/1252.jpg',
+	sta: 'following',
+	desc: 'blalba'
+},
+{
+	name:'Against the sky supreme',
+	date: '20/12/2022',
+	followers: '15',
+	pic: '/pics/117031.jpg',
+	sta: 'following',
+	desc: 'blalba'
+}, 
+{
+	name: 'Lovely girls',
+	date: '20/12/2022',
+	followers: '15',
+	pic: '/pics/d281cf9550d6abc5e3824f6b55e57983.jpg',
+	sta: 'unfollow',
+	desc: 'blalba'
+},
+{
+	name: 'Anime lovers',
+	date: '20/12/2022',
+	followers: '15',
+	pic: '/pics/0oRxrSt0fdw.jpg',
+	sta: 'unfollow',
+	desc: 'blalba'
+}
+]);	
+	
 
 return (<>
 
@@ -227,7 +264,12 @@ return (<>
 
 
 
-<div class="cmnt35">
+
+
+
+
+{List.map((val,index)=> (
+<div class="cmnt35" key={index}>
 
 
 
@@ -235,20 +277,20 @@ return (<>
 
 	
 <div>
-<img src="pics/1252.jpg" width="80" height="80"/>
+<img src={val.pic} width="80" height="80"/>
 </div>	
 
-<div class="pd2">
-<div><a href="">Battle thru the heavens</a></div>
-<div>qweqweqweqwe</div>
-<div><a href="" class="white">3,192 members</a></div>
+<div className="pd2">
+<div><a href="">{val.name}</a></div>
+<div>{val.desc}</div>
+<div><a href="" className="white">{val.followers} members</a></div>
 </div>	
 
 
-<div class="right">
+<div className="right">
 	
 <div>
-<div href="" class="flw">Follow</div>
+<div href="" className="flw">{val.sta}</div>
 </div>
 	
 	
@@ -262,154 +304,7 @@ return (<>
 </div>
 
 
-
-
-
-
-
-<div class="cmnt35">
-
-
-
-<div>
-
-	
-<div>
-<img src="pics/1252.jpg" width="80" height="80"/>
-</div>	
-
-<div class="pd2">
-<div><a href="">Battle thru the heavens</a></div>
-<div>qweqweqweqwe</div>
-<div><a href="" class="white">3,192 members</a></div>
-</div>	
-
-
-<div class="right">
-	
-<div>
-<div href="" class="flw">Follow</div>
-</div>
-	
-	
-	
-</div>
-	
-	
-	</div>
-	
-	
-</div>
-
-
-
-<div class="cmnt35">
-
-
-
-<div>
-
-	
-<div>
-<img src="pics/1252.jpg" width="80" height="80"/>
-</div>	
-
-<div class="pd2">
-<div><a href="">Battle thru the heavens</a></div>
-<div>qweqweqweqwe</div>
-<div><a href="" class="white">3,192 members</a></div>
-</div>	
-
-
-<div class="right">
-	
-<div>
-<div href="" class="flw">Follow</div>
-</div>
-	
-	
-	
-</div>
-	
-	
-	</div>
-	
-	
-</div>
-
-
-
-<div class="cmnt35">
-
-
-
-<div>
-
-	
-<div>
-<img src="pics/1252.jpg" width="80" height="80"/>
-</div>	
-
-<div class="pd2">
-<div><a href="">Battle thru the heavens</a></div>
-<div>qweqweqweqwe</div>
-<div><a href="" class="white">3,192 members</a></div>
-</div>	
-
-
-<div class="right">
-	
-<div>
-<div href="" class="flw">Follow</div>
-</div>
-	
-	
-	
-</div>
-	
-	
-	</div>
-	
-	
-</div>
-
-
-<div class="cmnt35">
-
-
-
-<div>
-
-	
-<div>
-<img src="pics/1252.jpg" width="80" height="80"/>
-</div>	
-
-<div class="pd2">
-<div><a href="">Battle thru the heavens</a></div>
-<div>qweqweqweqwe</div>
-<div><a href="" class="white">3,192 members</a></div>
-</div>	
-
-
-<div class="right">
-	
-<div>
-<div href="" class="flw">Follow</div>
-</div>
-	
-	
-	
-</div>
-	
-	
-	</div>
-	
-	
-</div>
-
-
-
+))}  
 
 
 
