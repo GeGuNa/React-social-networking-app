@@ -49,6 +49,7 @@ padding:8px;width: 91%;display: block;margin: auto;/* text-align:center; *//* po
 
 .btn3 {
 width:85%;text-align:center;
+padding:8px;
 }
 
 
@@ -898,4 +899,65 @@ float:left;
 .c123zdspltzc123 > div:not(:first-child) {
 float:left;
 padding-left:25px;
+}
+
+
+.clnav {
+width:100%;
+background:#fff;
+}
+
+.clnav > .c1 {
+max-width:100%;
+display:flex;
+margin:auto;
+padding:10px;
+}
+
+.clnaqz1_ {
+display:flex;
+width:16%;
+flex: 0 0 auto;
+}
+
+.clnaqz2_ {
+display:flex;
+width:68%;
+flex: 0 0 auto;
+align-items: center;
+}
+
+
+.clnaqz3_ {
+display:flex;
+width:16%;
+flex: 0 0 auto;
+}
+
+.clnaqz2_ > div svg {
+width:35px;
+height:35px;
+}
+
+.clnaqz3_ > div {
+padding-right:20px;
+}
+
+
+.pdng21 {
+padding-right:8px;
+}
+
+.pdng213zz {
+border: 1px solid #f1d0d0;background: #e6e6e6;padding: 10px;border-radius: 22px;width: 100%;
+}
+
+
+.cmtkdqflx {
+justify-content:space-evenly;
+}
+
+.cqmzfqwe2 { 
+
+/* background:#ff8200; */border-radius: 15px;padding:10px;color:#fff;height: 31px;margin-top: -10px;
 }

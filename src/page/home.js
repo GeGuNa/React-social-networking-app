@@ -36,7 +36,7 @@ const [cz, Setcz] = useState({aba:'15',baba:'25'})
 		
 <div  className="pdng10"> <a className="btn2 alnk21">Registration</a></div>
 	  
-		
+		<div> Forget password? <a class="">Recovering</a></div>
 		</form>
 		
 		
