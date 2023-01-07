@@ -51,7 +51,13 @@ return (<>
 
 <div class="rnmg28">
 <div class="rnmg29">Mariam koberidze</div>
-<div><a href="">Add information about yourself </a></div>
+
+{id == 1 ? 
+	(
+<div><a href="">Add information about yourself </a></div>) : '' 
+}
+
+<div>Followers: <a href=""><b>15</b></a> Followings: <a href=""><b>155</b></a></div>
 </div>
 
 </div>
@@ -82,11 +88,21 @@ return (<>
 	
 </div>
 
+
+
+
 </div>
 
 
 
-
+<div class="c123zdspltzc123">
+<div><a href="">Home</a></div>
+<div><a href="">About</a></div>
+<div><a href="">Members</a></div>
+<div><a href="">Videos</a></div>
+<div><a href="">Posts</a></div>
+<div><a href="">More</a></div>
+</div>
 
 
 
