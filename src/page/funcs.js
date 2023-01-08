@@ -35,7 +35,7 @@ export function Main({children}) {
 
 
 
-<div class="row rnmg23">
+<div class="row" style={{marginLeft:'10px'}}>
 	
 
 {children}

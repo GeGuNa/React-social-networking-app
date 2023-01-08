@@ -9,7 +9,7 @@ export function Community() {
 
 
 
-<div class="col-9 rnmg24">
+<div class="col-9 cmnt2z1qwer">
 
 
 <div class="cbrd1">
@@ -49,7 +49,62 @@ export function Community() {
 
 </div>
 
+
+
+
+
+<div class="c123czt13afqf">
+
+<div class="c13zzzz_all_items">
+
+<div class="cqz active">Photos</div>
+<div class="cqz">Videos</div>
+<div class="cqz">Music</div>
+<div class="cqz">Topics</div>
+
 </div>
+
+
+
+<div class="c13zzzz_all_items cqwezzz22itmnlst">
+
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+
+
+
+</div>
+
+<div class="rnmg31">
+<a href="" class="rnmg32">See all</a>
+</div>
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
 	
 
 <div class="col-3">
@@ -121,39 +176,96 @@ export function Community() {
 
 
 
-<div class="rnmg33">
 
 
-<div class="rprflmn">
+<div class="c123czt13afqf">
 
 
-<div><a href="">News</a></div>
-<div><a href="">Reactions</a></div>
-<div><a href="">Search</a></div>
+<div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm.646 2.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L4.293 8 2.646 6.354a.5.5 0 0 1 0-.708zM7 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm-5 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path></svg>  
+
+ <span class="txtbrk">
+	 Description of qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+</span>
+</div>
+
+</div>
+
+
+
+<div class="rnmg30" style={{marginTop:'14px'}}>
+
+<div class="t21">Members <a href=""> <b>5000</b> </a></div>
+
+
+<div class="cqwezzz22itmnlst">
+
+</div>
+
+<div class="prfrmn">
+
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+<div>
+<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+</div>
+
+
+
+</div>
+
+
+<div class="rnmg31">
+<a href="" class="rnmg32">See all</a>
+</div>
 
 
 </div>
 
 
 
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
 
 </div>	
 
