@@ -112,53 +112,24 @@ export function Community() {
 
 <div class="rnmg30">
 
-<div class="t21">Followers <a href=""> <b>5000</b> </a></div>
 
 
-<div class="prfrmn">
+<div class="rprflmn">
 
 
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
-
-
-<div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
-</div>
+<div><a href="">News</a></div>
+<div><a href="">Reactions</a></div>
+<div><a href="">Search</a></div>
+<div><a href="">Updates</a></div>
+<div><a href="">Comments</a></div>
+<div><a href="">Videos</a></div>
+<div><a href="">Photos</a></div>
+<div><a href="">Recommended</a></div>
+<div><a href="">Settings</a></div>
+<div><a href="">My page</a></div>
+<div><a href="">Pages</a></div>
 
 </div>
-
 
 <div class="rnmg31">
 <a href="" class="rnmg32">See all</a>
