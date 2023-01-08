@@ -99,6 +99,284 @@ export function Community() {
 
 
 
+
+<div class="col-12">
+
+
+<div class="snacks6">
+
+
+<div class="ce12524">
+
+
+<div>
+
+<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+	
+<div class="left snacks8"> 
+	<div><a href="">Nini koberidze</a></div>	
+	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+</div>	
+
+
+<div class="right snacks10"> 
+	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
+</div>	
+
+
+
+
+<div class="crlrbth">
+			
+			<div class="text">
+	
+				Nice very nice, i like this one !!!</div>
+			
+			
+			
+			</div>
+
+
+
+
+<div class="pstfl">
+			
+			
+			<div>
+				
+				<div class="czinlwqeq">
+			    <div class="hrt1"> </div>
+				<div class="cz2z_fnt"> 25 </div>
+				</div>
+				
+
+			</div>
+			
+		
+		
+			
+			
+						<div>
+				
+				<div class="czinlwqeq">
+			    <div class="cmntz_on_cwpad"> </div>
+				<div class="cz2z_fnt"> 35 </div>
+				</div>
+				
+
+			</div>
+			
+			
+				
+				
+				<div>
+				
+				<div class="czinlwqeq">
+			    <div class="cp_share"> </div>
+				<div class="cz2z_fnt"> 35 </div>
+				</div>
+				
+
+			</div>
+			
+			
+
+<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+
+
+
+			
+			</div>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+<div class="col-12">
+
+
+<div class="snacks6">
+
+
+<div class="ce12524">
+
+
+<div>
+
+<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+	
+<div class="left snacks8"> 
+	<div><a href="">Nini koberidze</a></div>	
+	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+</div>	
+
+
+<div class="right snacks10"> 
+	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
+</div>	
+
+
+
+
+<div class="crlrbth">
+			
+			<div class="text">
+	
+				Pretty girl ❤️❤️❤️
+				</div>
+			
+			
+			<div class="img_detected_on_pst">
+			<img src="/pics/jJ7g1VXRvqw.jpg"/>
+			</div>
+			
+			
+			</div>
+
+
+
+
+<div class="pstfl">
+			
+			
+			<div>
+				
+				<div class="czinlwqeq">
+			    <div class="hrt1"> </div>
+				<div class="cz2z_fnt"> 25 </div>
+				</div>
+				
+
+			</div>
+			
+		
+		
+			
+			
+						<div>
+				
+				<div class="czinlwqeq">
+			    <div class="cmntz_on_cwpad"> </div>
+				<div class="cz2z_fnt"> 35 </div>
+				</div>
+				
+
+			</div>
+			
+			
+				
+				
+				<div>
+				
+				<div class="czinlwqeq">
+			    <div class="cp_share"> </div>
+				<div class="cz2z_fnt"> 35 </div>
+				</div>
+				
+
+			</div>
+			
+			
+
+<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+
+
+
+			
+			</div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
 </div>
 
 
