@@ -410,7 +410,7 @@ Boys You may know
 		<div></div>
 		<button className="btn1 btn3">Enter</button>
 		
-<div  className="pdng10"> <a className="btn2 alnk21">Registration</a></div>
+<div  className="pdng10"> <Link className="btn2 alnk21" to="/signup">Registration</Link></div>
 	  
 		<div> Forget password? <a class="">Recovering</a></div>
 		</form>

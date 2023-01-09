@@ -1279,3 +1279,105 @@ width: 16px;
     padding: 0px;
     border-radius: 10px;
 }
+
+
+
+
+
+
+
+
+
+.right_unauth_posts {
+display:inline-block;
+width:100%;
+}
+
+.kk_1 {
+clear: both;padding-left: 12px;
+}
+
+.kk_2 {
+padding-right:10px;padding-top: 8px;
+}
+
+.auth_nv {
+background:#fff;
+padding:10px;
+}
+
+
+.auth_nv2 {
+margin-top:15px;
+background:#fff;
+display:inline-block;
+width:100%;
+}
+
+.auth_nv2 div {
+float:left;
+width:50%;
+text-align:center;
+padding:10px;
+}
+
+.auth_nv2 div:is(.active) {
+background:#1da2e6;
+color:white !important;
+cursor:none;
+}
+
+.forma {
+margin-top:20px;
+max-width:100%;
+background:#fff;
+}
+
+.forma > *:not(.Entrst) {
+padding:15px;
+text-align:center;
+max-width:80%;
+margin:auto;
+}
+
+.forma input {
+border:1px solid gray;
+width:100%;
+}
+
+.forma .czr2 {
+margin-bottom:10px;
+}
+
+.forma select {
+width:100%;
+padding:10px;
+}
+
+.forma button {
+padding:15px;
+background: tomato;
+color:white;
+border-radius:15px;
+width:100%;
+}
+
+
+.auth_nv2 div:is(.active) a {
+color:white !important;
+}
+
+.Entrst {
+font-size:1.5rem;
+font-weight:bold;
+text-align:center;
+padding:10px 0 10px 0;
+}
+
+.auth_lnk {
+margin-top:15px;
+background:#fff;
+display:block;
+width:100%;
+padding:10px;
+}
