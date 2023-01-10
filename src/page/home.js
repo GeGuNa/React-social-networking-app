@@ -4,6 +4,50 @@ import { Main } from './funcs.js'
 
 
 
+export function Pstwdtls({pic, text, date,prflpic,prflname,like,share,comment}) {
+	
+return (<>
+
+
+
+<div className="czlast">
+
+<div className="left cz_pdng21"><img src={pic}/></div>
+
+<div className="cz_datq_pdngaz">
+<div>{text}</div>
+</div>
+
+
+<div className="left cz_datq_pdngazz">
+<img src={prflpic} width="25" height="25"/>  <a href="">{prflname}</a>
+</div>
+
+<div className="left cz_datq_pdngazz mnlstgnd cz_2z">{date}</div>
+
+<div className="right" id="rght_details" style={{paddingRight: '10px'}}>
+<span><svg className="cp_share_11"></svg> {share}</span>
+<span><svg className="cmnts_otqz22"></svg> {comment}</span>
+<span><svg className="lzzzf123a_22"></svg> {like} </span>
+</div>
+</div>
+
+
+</>)
+}
+
+
+
+
+
+
+export function Shwpfr({pic}) {
+	
+return (<div><img src={pic}/></div>)
+}
+
+
+
 function Home() {
 	
 const [cz, Setcz] = useState({aba:'15',baba:'25'})	
@@ -42,12 +86,10 @@ Girls You may know
 
 <div class="c13zzzz_all_items cqwezzz22itmnlst">
 
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-
-
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
 
 </div>
 
@@ -74,12 +116,10 @@ Boys You may know
 
 <div class="c13zzzz_all_items cqwezzz22itmnlst">
 
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="pics/CYjP_-UxpPs.jpg"/></div>
-
-
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
+<Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
 
 
 </div>
@@ -108,246 +148,69 @@ Boys You may know
 
 
 
-<div class="czlast">
 
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
 
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="czlast">
-
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
-
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="czlast">
-
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
-
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div class="czlast">
-
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
-
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div class="czlast">
-
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
-
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="czlast">
-
-<div class="left cz_pdng21">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg"/>
-</div>
-
-<div class="cz_datq_pdngaz">
-<div>qwecqwecqweqwecqwecqwe qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe  qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe    qwecqwecqwe     </div>
-</div>
-
-<div class="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
-</div>
-
-
-<div class="left cz_datq_pdngazz mnlstgnd cz_2z">
- 2023-01-11
-</div>
-
-<div class="right" style={{paddingRight:'10px'}} id="rght_details">
-	
-<span><svg class="cp_share_11"></svg> 15</span>	
-	
-	
-<span>
-<svg class="cmnts_otqz22"></svg> 125	
-	</span>
-	
-
-<span>
-<svg class="lzzzf123a_22"></svg> 15 </span>
-
-
-
-</div>
-
-
-</div>
+<Pstwdtls 
+pic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'} 
+text={'qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe'} 
+date={'2023-01-11'} 
+prflpic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'}
+prflname={'Michelle'} 
+like={15} 
+share={25} 
+comment={35}
+
+ />
+ 
+ 
+ <Pstwdtls 
+pic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'} 
+text={'qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe'} 
+date={'2023-01-11'} 
+prflpic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'}
+prflname={'Michelle'} 
+like={15} 
+share={25} 
+comment={35}
+
+ />
+ 
+ 
+ <Pstwdtls 
+pic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'} 
+text={'qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe'} 
+date={'2023-01-11'} 
+prflpic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'}
+prflname={'Michelle'} 
+like={15} 
+share={25} 
+comment={35}
+
+ />
+ 
+ <Pstwdtls 
+pic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'} 
+text={'qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe'} 
+date={'2023-01-11'} 
+prflpic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'}
+prflname={'Michelle'} 
+like={15} 
+share={25} 
+comment={35}
+
+ />
+ 
+ <Pstwdtls 
+pic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'} 
+text={'qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe'} 
+date={'2023-01-11'} 
+prflpic={'/pics/d281cf9550d6abc5e3824f6b55e57983.jpg'}
+prflname={'Michelle'} 
+like={15} 
+share={25} 
+comment={35}
+
+ />
 
 
 
