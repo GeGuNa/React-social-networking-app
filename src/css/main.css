@@ -1472,3 +1472,189 @@ padding:10px;
 margin:auto;
 }
 
+
+
+
+
+/* for video page */
+
+
+
+
+.mautoz_22 {
+display:flex;
+width:100%;
+border-bottom:1px solid #e2e1e1;
+//margin-bottom:18px;
+}
+
+.mautoz_22 > div {
+flex:1;
+display: flex;
+justify-content:center;
+padding:10px;
+color:#fff;
+}
+
+.cz_5zz_1 {
+    padding: 10px;
+    background: #346297;
+    border-radius: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.cz_5zz_13z {
+    background: #e5ebf1 !important;
+    color: #346297 !important;
+}
+
+
+
+.lzzzf123a_22_vd1 {
+background-image: 
+        url('data:image/svg+xml;utf8,<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M9 10v8l7-4zm12-4h-7.58l3.29-3.29L16 2l-4 4h-.03l-4-4-.69.71L10.56 6H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 14H3V8h18v12z"></path></svg>');
+	width: 24px;
+    height: 24px;
+        margin-top: -4px;
+    background-repeat: no-repeat;
+
+}
+
+
+.lzzzf123a_22_vd2 {
+background-image: 
+        url('data:image/svg+xml;utf8,<svg stroke="currentColor" fill="white" stroke-width="0" version="1.1" viewBox="0 0 17 17" height="18" width="18" xmlns="http://www.w3.org/2000/svg"><g></g><path d="M0 1v15h17v-15h-17zM16 4h-0.268l-2.356-2h2.624v2zM8.743 7l2.357-2h2.919l-2.357 2h-2.919zM6.803 4l-2.357-2h2.918l2.357 2h-2.918zM9.554 5l-2.357 2h-2.919l2.356-2h2.92zM11.268 4l-2.357-2h2.918l2.357 2h-2.918zM1 2h1.9l2.357 2h-4.257v-2zM1 5h4.089l-2.357 2h-1.732v-2zM16 15h-15v-7h15v7zM16 7h-2.792l2.356-2h0.436v2z"></path></svg>');
+	width: 20px;
+    height: 20px;
+    
+    background-repeat: no-repeat;
+
+}
+
+
+
+.lzzzf123a_22_vd3 {
+background-image: 
+        url('data:image/svg+xml;utf8,<svg stroke="currentColor" fill="black" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M885.9 533.7c16.8-22.2 26.1-49.4 26.1-77.7 0-44.9-25.1-87.4-65.5-111.1a67.67 67.67 0 0 0-34.3-9.3H572.4l6-122.9c1.4-29.7-9.1-57.9-29.5-79.4A106.62 106.62 0 0 0 471 99.9c-52 0-98 35-111.8 85.1l-85.9 311H144c-17.7 0-32 14.3-32 32v364c0 17.7 14.3 32 32 32h601.3c9.2 0 18.2-1.8 26.5-5.4 47.6-20.3 78.3-66.8 78.3-118.4 0-12.6-1.8-25-5.4-37 16.8-22.2 26.1-49.4 26.1-77.7 0-12.6-1.8-25-5.4-37 16.8-22.2 26.1-49.4 26.1-77.7-.2-12.6-2-25.1-5.6-37.1zM184 852V568h81v284h-81zm636.4-353l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 16.5-7.2 32.2-19.6 43l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 16.5-7.2 32.2-19.6 43l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 22.4-13.2 42.6-33.6 51.8H329V564.8l99.5-360.5a44.1 44.1 0 0 1 42.2-32.3c7.6 0 15.1 2.2 21.1 6.7 9.9 7.4 15.2 18.6 14.6 30.5l-9.6 198.4h314.4C829 418.5 840 436.9 840 456c0 16.5-7.2 32.1-19.6 43z"></path></svg>');
+	width: 25px;
+    height: 22px;
+    margin-top:-3px;
+    background-repeat: no-repeat;
+
+}
+
+
+.cslz123pdng {
+    padding-top: 2px;
+	padding-right:10px;
+}
+
+
+.cvdmn {
+display:flex;
+width:100%;
+flex-wrap: wrap;    
+padding-left: 10px;
+padding-right: 10px;
+    margin-top: 12px;
+}
+
+.cvdmn > div {
+padding:10px;
+width:100%;
+display:flex;
+
+}
+
+.cvdmn > div:is(.active) {
+background:#dadada;
+color:#000;
+border-radius:15px;
+}
+
+.cvdmn > div:is(.active) div svg {
+color:#fff;
+}
+
+
+.srch_br {
+position:absolute;margin-left: 12px;margin-top: 11px;
+}
+
+.srchbr_3 input {
+width: 100%;margin:auto;padding-left: 32px;padding-top: 10px;font-size: 16px;
+}
+
+
+.srchbr_3 {
+max-width: 99%;margin: auto;margin-top:10px;
+}
+
+
+.czd1231zz_da {
+background:#fff;
+width: 99%;
+margin: auto;
+margin-top: 10px;
+}
+
+
+.qweqwezzvdlst {
+background:#fff;
+max-width:100%;
+width: 99%;
+margin: auto;
+margin-top: 10px;
+}
+
+.cimgbrd {
+border-radius:15%;
+width:280px;
+height:170px;
+}
+
+.cimgbrd_zz2 {
+border-radius:15%;
+width:40px;
+height:45px;
+}
+
+.cqweppnd {
+padding-left:7px;
+}
+
+
+.ppc123zz {
+margin-top: -3px;
+padding-left: 10px;
+}
+
+
+
+.czd1231zz_d {
+display:inline-block;
+width:100%;
+padding:10px;
+}
+
+.czd1231zz_d > div {
+padding-left:10px;
+}
+
+
+
+.pvdlst {
+display:flex;
+width:100%;
+flex-wrap: wrap;
+}
+
+.pvdlst > div {
+padding-left:15px;
+display:flex;
+width:20%;
+margin-bottom:20px;
+}
+

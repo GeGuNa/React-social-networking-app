@@ -111,7 +111,7 @@ export function Nav() {
 const location = useLocation();
 
 //check if page path is community
-const qzz = zz(/^(\/community\/[0-9]+)$/g, location.pathname)
+const qzz = zz(/^(\/(community|video)\/[0-9]+)$/g, location.pathname.toLowerCase())
 
 
 //console.log(qzz)
