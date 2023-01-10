@@ -3,6 +3,29 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 
+export function Shdt({pic,name,status}) {
+	return (<>
+	
+	<div>
+	
+<div className="left"><img className="phtsz" src={pic} /></div>
+
+<div className="c1 left row">
+<div>{name}</div>
+<div>{status}</div>
+</div>
+
+
+</div>
+
+	
+	
+	</>);
+}
+
+
+
+
 export default function Messaging() {
 	return (<>
 
@@ -53,98 +76,15 @@ export default function Messaging() {
 <div className="cmsglst">
 
 
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
 
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
+<Shdt pic={'/photos/jJ7g1VXRvqw.jpg'} name={'Mariam koberidze'} status={'online'}/>
 
 
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
-
-
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
-
-
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
-
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
-
-
-
-<div>
-	
-<div className="left"><img className="phtsz" src="/photos/jJ7g1VXRvqw.jpg"/></div>
-
-<div className="c1 left row">
-<div>NUkri koberidze</div>
-<div>Online</div>
-</div>
-
-
-</div>
 
 
 </div>
