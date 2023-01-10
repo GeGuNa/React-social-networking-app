@@ -1381,3 +1381,94 @@ display:block;
 width:100%;
 padding:10px;
 }
+
+
+
+.kz2z_1 {
+float:left;margin-top: 5px;
+}
+
+.kz2z_2 {
+display:inline-flex;
+}
+
+.kz2z_3 {
+background:#fff;padding:10px;text-align:center;
+}
+
+
+.kz2z_4 {
+border-radius:50%;
+}
+
+.czmsgnavmd {
+background:#fff;
+padding:10px;
+width:100%;
+position:relative;
+display:grid;
+grid-template-columns:20% 80%;
+}
+
+.pdgq2zfq131z {
+padding-left:10px;
+}
+
+.pdgq2zfq131zopc {
+opacity:0.5;
+}
+
+
+.mnqwe22lzzz {
+border-right:1px solid #dcdcdc;background: #ffffff;
+}
+
+
+.phtsz {
+width:48px;
+height:48px;
+border-radius:15px;
+}
+
+
+.cmsglst {
+width:100%;
+position:relative;
+display:grid;
+}
+
+.cmsglst > :first-child {
+border-top:1px solid #dcdcdc;
+}
+
+.cmsglst div .c1 {
+padding-left:10px;
+}
+
+.cmsglst div {
+//padding-left:10px;
+}
+
+
+
+.cmsglst > div {
+border-bottom:1px solid #dcdcdc;
+padding:10px;
+}
+
+/*
+
+.cmsglst > div:not(:last-child) {
+border-bottom:1px solid #dcdcdc;
+padding:10px;
+}
+.cmsglst > div:is(:last-child) {
+padding:10px;
+}*/
+
+
+
+.mauto {
+margin:auto;
+}
+

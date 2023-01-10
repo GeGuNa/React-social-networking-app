@@ -4,6 +4,10 @@ import Login from './page/login.js';
 import Signup from './page/signup.js';
 import Manga from './page/manga.js';
 import Profile from './page/profile.js';
+import Messaging from './page/messaging.js';
+
+
+
 import Communities, { Community } from './page/communities.js';
 
 
@@ -35,6 +39,7 @@ export default function App() {
 	<Route path="/signup" element={<Signup/>} />
 	<Route path="/manga/:id" element={<Manga />} />	
     <Route path="/profile/:id" element={<Profile />} />	
+    <Route path="/Messaging/:id" element={<Messaging />} />	
 	<Route path="/aba/:id" 
 	 /* loader={() => {  {console.log('15')}  }}
 	  action={() => {  {console.log('15')} }}*/
