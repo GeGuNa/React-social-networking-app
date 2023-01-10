@@ -4,6 +4,40 @@ import { Main, Nav } from './funcs.js'
 
 
 
+export function VidlsS({name, picvid, prflpic, view, date}){ 
+	return (<>
+	
+<div>
+
+
+<div>
+<div><img className="cimgbrd" src={picvid} /></div>	
+
+
+<div className="cqweppnd">
+
+<div className="left"><img className="cimgbrd_zz2" src={prflpic}/></div>
+
+<div className="left ppc123zz">
+<div><a href="#">{name}</a></div>
+<div>{view}, {date}</div>
+</div>
+
+
+</div>
+
+
+
+</div>
+
+
+</div>
+
+	
+	</>)
+}
+
+
 export default function Video() {
 	
 
@@ -132,194 +166,57 @@ export function Video_main() {
 
 
 	
-<div class="czd1231zz_da">
+<div className="czd1231zz_da">
 	
 	
-<div class="czd1231zz_d">
-<div class="left"><a href="">All</a></div>
-<div class="left"><a href="">Travel</a></div>
-<div class="left"><a href="">Programming</a></div>
-<div class="left"><a href="">Culture</a></div>
-<div class="left"><a href="">Tv</a></div>
-<div class="left"><a href="">Fashion</a></div>
-<div class="left"><a href="">Music</a></div>
-<div class="left"><a href="">Fitness</a></div>
-<div class="left"><a href="">Hacking</a></div>
+<div className="czd1231zz_d">
+<div className="left"><a href="">All</a></div>
+<div className="left"><a href="">Travel</a></div>
+<div className="left"><a href="">Programming</a></div>
+<div className="left"><a href="">Culture</a></div>
+<div className="left"><a href="">Tv</a></div>
+<div className="left"><a href="">Fashion</a></div>
+<div className="left"><a href="">Music</a></div>
+<div className="left"><a href="">Fitness</a></div>
+<div className="left"><a href="">Hacking</a></div>
 </div>
 
 
-<div class="pvdlst">
+<div className="pvdlst">
 	
 	
+
+		
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
+
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 	
-	
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-<div>
 
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
 
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-<div class="cqweppnd">
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-</div>
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-</div>
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
-
-</div>
-
-
-
-
-<div>
-
-
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
-
-
-<div class="cqweppnd">
-
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
-
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
-
-
-</div>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div>
-
-
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
-
-
-<div class="cqweppnd">
-
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
-
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
-
-
-</div>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div>
-
-
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
-
-
-<div class="cqweppnd">
-
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
-
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
-
-
-</div>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div>
-
-
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
-
-
-<div class="cqweppnd">
-
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
-
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
-
-
-</div>
-
-
-
-</div>
-
-
-</div>
-
-
-
-<div>
-
-
-<div>
-<div><img class="cimgbrd" src="/photos/channels4_profile.jpg"/></div>	
-
-
-<div class="cqweppnd">
-
-<div class="left"><img class="cimgbrd_zz2" src="/pics/HvP81gXfstQ.jpg"/></div>
-
-<div class="left ppc123zz">
-<div><a href="">Alan Walker (Remix) - New </a></div>
-<div>184K views, 1 year ago</div>
-</div>
-
-
-</div>
-
-
-
-</div>
-
-
-</div>
+	<VidlsS name={'Alan Walker (Remix) - New'} picvid={'/photos/channels4_profile.jpg'} prflpic={'/pics/HvP81gXfstQ.jpg'} view={'184K views'} date={'1 year ago'}/>	
 
 
 
