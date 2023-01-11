@@ -9,35 +9,35 @@ export function Community() {
 
 
 
-<div class="col-9 cmnt2z1qwer">
+<div className="col-9 cmnt2z1qwer">
 
 
-<div class="cbrd1">
+<div className="cbrd1">
 
-<div class="cbrd122" style={{background:'url(/pics/pexels-luis-del-río-15286.jpg)'}}>
+<div className="cbrd122" style={{background:'url(/pics/pexels-luis-del-río-15286.jpg)'}}>
 </div>
 
 </div>
 
 
-<div class="col-12 brwhite">
+<div className="col-12 brwhite">
 
-<div class="c123zdsplt">
-<div><img class="rnmg271_kzr2" src="/pics/channels4_profile.jpg" width="128"/></div>
+<div className="c123zdsplt">
+<div><img className="rnmg271_kzr2" src="/pics/channels4_profile.jpg" width="128"/></div>
 
-<div class="ndsg3 cqwe1z214_c1">
-<div class="fntq_22">Warm Autumn</div>
+<div className="ndsg3 cqwe1z214_c1">
+<div className="fntq_22">Warm Autumn</div>
 <div>@warmautumn7100</div>
 <div>2.58K subscribers</div>
 </div>
 
 
-<div class="flwqe_12"><div class="flwqe_1">Follow</div></div>
+<div className="flwqe_12"><div className="flwqe_1">Follow</div></div>
 
 </div>
 
 
-<div class="c123zdspltzc123">
+<div className="c123zdspltzc123">
 <div><a href="">Home</a></div>
 <div><a href="">About</a></div>
 <div><a href="">Members</a></div>
@@ -53,82 +53,82 @@ export function Community() {
 
 
 
-<div class="c123czt13afqf">
+<div className="c123czt13afqf">
 
-<div class="c13zzzz_all_items">
+<div className="c13zzzz_all_items">
 
-<div class="cqz active">Photos</div>
-<div class="cqz">Videos</div>
-<div class="cqz">Music</div>
-<div class="cqz">Topics</div>
-
-</div>
-
-
-
-<div class="c13zzzz_all_items cqwezzz22itmnlst">
-
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-
-
-
-</div>
-
-<div class="rnmg31">
-<a href="" class="rnmg32">See all</a>
-</div>
+<div className="cqz active">Photos</div>
+<div className="cqz">Videos</div>
+<div className="cqz">Music</div>
+<div className="cqz">Topics</div>
 
 </div>
 
 
 
+<div className="c13zzzz_all_items cqwezzz22itmnlst">
+
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
 
 
-<div class="col-12">
+
+</div>
+
+<div className="rnmg31">
+<a href="" className="rnmg32">See all</a>
+</div>
+
+</div>
 
 
-<div class="snacks6">
 
 
-<div class="ce12524">
+
+<div className="col-12">
+
+
+<div className="snacks6">
+
+
+<div className="ce12524">
 
 
 <div>
 
-<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
-<div class="left snacks8"> 
+<div className="left snacks8"> 
 	<div><a href="">Nini koberidze</a></div>	
-	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
-<div class="right snacks10"> 
+<div className="right snacks10"> 
 	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
 </div>	
 
 
 
 
-<div class="crlrbth">
+<div className="crlrbth">
 			
-			<div class="text">
+			<div className="text">
 	
 				Nice very nice, i like this one !!!</div>
 			
@@ -139,14 +139,14 @@ export function Community() {
 
 
 
-<div class="pstfl">
+<div className="pstfl">
 			
 			
 			<div>
 				
-				<div class="czinlwqeq">
-			    <div class="hrt1"> </div>
-				<div class="cz2z_fnt"> 25 </div>
+				<div className="czinlwqeq">
+			    <div className="hrt1"> </div>
+				<div className="cz2z_fnt"> 25 </div>
 				</div>
 				
 
@@ -158,9 +158,9 @@ export function Community() {
 			
 						<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cmntz_on_cwpad"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cmntz_on_cwpad"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -171,9 +171,9 @@ export function Community() {
 				
 				<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cp_share"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cp_share"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -181,7 +181,7 @@ export function Community() {
 			
 			
 
-<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+<div className="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
 
 
 
@@ -235,41 +235,41 @@ export function Community() {
 
 
 
-<div class="col-12">
+<div className="col-12">
 
 
-<div class="snacks6">
+<div className="snacks6">
 
 
-<div class="ce12524">
+<div className="ce12524">
 
 
 <div>
 
-<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
-<div class="left snacks8"> 
+<div className="left snacks8"> 
 	<div><a href="">Nini koberidze</a></div>	
-	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
-<div class="right snacks10"> 
+<div className="right snacks10"> 
 	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
 </div>	
 
 
 
 
-<div class="crlrbth">
+<div className="crlrbth">
 			
-			<div class="text">
+			<div className="text">
 	
 				Pretty girl ❤️❤️❤️
 				</div>
 			
 			
-			<div class="img_detected_on_pst">
+			<div className="img_detected_on_pst">
 			<img src="/pics/jJ7g1VXRvqw.jpg"/>
 			</div>
 			
@@ -279,14 +279,14 @@ export function Community() {
 
 
 
-<div class="pstfl">
+<div className="pstfl">
 			
 			
 			<div>
 				
-				<div class="czinlwqeq">
-			    <div class="hrt1"> </div>
-				<div class="cz2z_fnt"> 25 </div>
+				<div className="czinlwqeq">
+			    <div className="hrt1"> </div>
+				<div className="cz2z_fnt"> 25 </div>
 				</div>
 				
 
@@ -298,9 +298,9 @@ export function Community() {
 			
 						<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cmntz_on_cwpad"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cmntz_on_cwpad"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -311,9 +311,9 @@ export function Community() {
 				
 				<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cp_share"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cp_share"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -321,7 +321,7 @@ export function Community() {
 			
 			
 
-<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+<div className="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
 
 
 
@@ -385,14 +385,14 @@ export function Community() {
 
 	
 
-<div class="col-3">
+<div className="col-3">
 
 
-<div class="rnmg30">
+<div className="rnmg30">
 
 
 
-<div class="rprflmn">
+<div className="rprflmn">
 
 
 <div><a href="">News</a></div>
@@ -409,8 +409,8 @@ export function Community() {
 
 </div>
 
-<div class="rnmg31">
-<a href="" class="rnmg32">See all</a>
+<div className="rnmg31">
+<a href="" className="rnmg32">See all</a>
 </div>
 
 
@@ -427,12 +427,12 @@ export function Community() {
 
 
 
-<div class="c123czt13afqf">
+<div className="c123czt13afqf">
 
 
 <div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm.646 2.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L4.293 8 2.646 6.354a.5.5 0 0 1 0-.708zM7 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm-5 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path></svg>  
 
- <span class="txtbrk">
+ <span className="txtbrk">
 	 Description of qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 </span>
 </div>
@@ -441,16 +441,16 @@ export function Community() {
 
 
 
-<div class="rnmg30" style={{marginTop:'14px'}}>
+<div className="rnmg30" style={{marginTop:'14px'}}>
 
-<div class="t21">Members <a href=""> <b>5000</b> </a></div>
+<div className="t21">Members <a href=""> <b>5000</b> </a></div>
 
 
-<div class="cqwezzz22itmnlst">
+<div className="cqwezzz22itmnlst">
 
 </div>
 
-<div class="prfrmn">
+<div className="prfrmn">
 
 
 <div>
@@ -506,8 +506,8 @@ export function Community() {
 </div>
 
 
-<div class="rnmg31">
-<a href="" class="rnmg32">See all</a>
+<div className="rnmg31">
+<a href="" className="rnmg32">See all</a>
 </div>
 
 
@@ -594,25 +594,25 @@ return (<>
 
 
 
-<div class="cmnt_1521z">
+<div className="cmnt_1521z">
 
 
 
-<div class="cdinlb">
+<div className="cdinlb">
 
-<div class="PPzLeft">
-<div class="crqwz active">All communities <b>(1)</b></div>
+<div className="PPzLeft">
+<div className="crqwz active">All communities <b>(1)</b></div>
 </div>
 
-<div class="PPzLeft">
-<div class="crqwz">Managed communities</div>
+<div className="PPzLeft">
+<div className="crqwz">Managed communities</div>
 </div>
 
 </div>
 
-<div class="cqwezdsplbl">
+<div className="cqwezdsplbl">
 <input type="text" placeholder="Searching by name"/> 
-<button class="cqwezz_2"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path></svg></button>
+<button className="cqwezz_2"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path></svg></button>
 </div>
 
 
@@ -630,7 +630,7 @@ return (<>
 
 
 {List.map((val,index)=> (
-<div class="cmnt35" key={index}>
+<div className="cmnt35" key={index}>
 
 
 

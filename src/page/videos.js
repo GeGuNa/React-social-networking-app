@@ -74,65 +74,65 @@ export function Video_main() {
 		   
 
 
-<div class="mautoz_22">
+<div className="mautoz_22">
 	
-<div class="left"><div class="cz_5zz_1"><svg class="lzzzf123a_22_vd2"></svg> Video</div></div>	
-<div class="left"><div class="cz_5zz_1 cz_5zz_13z"><svg class="lzzzf123a_22_vd1"></svg> Live</div></div>			
+<div className="left"><div className="cz_5zz_1"><svg className="lzzzf123a_22_vd2"></svg> Video</div></div>	
+<div className="left"><div className="cz_5zz_1 cz_5zz_13z"><svg className="lzzzf123a_22_vd1"></svg> Live</div></div>			
 </div>
 
 
-<div class="cvdmn">
+<div className="cvdmn">
 
-<div class="active">
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Home</div>
+<div className="active">
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Home</div>
 </div>
 
 
 <div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Shorts</div>
-</div>
-
-
-
-<div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Subscriptions</div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Shorts</div>
 </div>
 
 
 
 <div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Library</div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Subscriptions</div>
 </div>
 
 
 
-
 <div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">History</div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Library</div>
 </div>
 
 
 
 
 <div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Your videos</div>
-</div>
-
-<div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Liked videos</div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">History</div>
 </div>
 
 
+
+
 <div>
-<div class="left cslz123pdng"><svg class="lzzzf123a_22_vd3"></svg> </div>
-<div class="left">Bookmarks</div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Your videos</div>
+</div>
+
+<div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Liked videos</div>
+</div>
+
+
+<div>
+<div className="left cslz123pdng"><svg className="lzzzf123a_22_vd3"></svg> </div>
+<div className="left">Bookmarks</div>
 </div>
 
 
@@ -150,14 +150,14 @@ export function Video_main() {
 		<div className="col-10">
 			
 
-<div class="srchbr_3">
+<div className="srchbr_3">
 	
-<div class="srch_br">
+<div className="srch_br">
 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path></svg>
 </div>	
 	
 	
-<input class="z2" type="text" placeholder="searching for the videos"/>
+<input className="z2" type="text" placeholder="searching for the videos"/>
 </div>
 			
 

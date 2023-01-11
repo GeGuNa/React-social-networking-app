@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import { Main } from './funcs.js'
 
 
-
 export function Pstwdtls({pic, text, date,prflpic,prflname,like,share,comment}) {
 	
 return (<>
@@ -51,40 +50,43 @@ return (<div><img src={pic}/></div>)
 function Home() {
 	
 const [cz, Setcz] = useState({aba:'15',baba:'25'})	
+
+
+
 	
  return (<>
   
   
 <Main>
 
-<div class="col-9 rnmg24_nw">
+<div className="col-9 rnmg24_nw">
 
 
 
-<div class="row" style={{marginTop: '10px'}}>
+<div className="row" style={{marginTop: '10px'}}>
 	
 	
 
 
-<div class="col-12">
+<div className="col-12">
 
 
-<div class="c123czt13afqfz_22">Randomly chosen users</div>
+<div className="c123czt13afqfz_22">Randomly chosen users</div>
 
 
-<div class="row">
+<div className="row">
 
-<div class="col-6">
+<div className="col-6">
 
-<div class="c123czt13afqf">
+<div className="c123czt13afqf">
 
-<div class="TiTle">
+<div className="TiTle">
 Girls You may know 
 </div>
 
 
 
-<div class="c13zzzz_all_items cqwezzz22itmnlst">
+<div className="c13zzzz_all_items cqwezzz22itmnlst">
 
 <Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
 <Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
@@ -93,8 +95,8 @@ Girls You may know
 
 </div>
 
-<div class="rnmg31">
-<a href="" class="rnmg32">See all</a>
+<div className="rnmg31">
+<a href="" className="rnmg32">See all</a>
 </div>
 
 </div>
@@ -104,17 +106,17 @@ Girls You may know
 
 
 
-<div class="col-6">
+<div className="col-6">
 
-<div class="c123czt13afqf">
+<div className="c123czt13afqf">
 
-<div class="TiTle">
+<div className="TiTle">
 Boys You may know 
 </div>
 
 
 
-<div class="c13zzzz_all_items cqwezzz22itmnlst">
+<div className="c13zzzz_all_items cqwezzz22itmnlst">
 
 <Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
 <Shwpfr pic={'pics/CYjP_-UxpPs.jpg'}/>
@@ -124,8 +126,8 @@ Boys You may know
 
 </div>
 
-<div class="rnmg31">
-<a href="" class="rnmg32">See all</a>
+<div className="rnmg31">
+<a href="" className="rnmg32">See all</a>
 </div>
 
 </div>
@@ -141,10 +143,10 @@ Boys You may know
 	
 	
 
-<div class="col-12">
+<div className="col-12">
 
 
-<div class="cz_datq">
+<div className="cz_datq">
 
 
 
@@ -275,7 +277,7 @@ comment={35}
 		
 <div  className="pdng10"> <Link className="btn2 alnk21" to="/signup">Registration</Link></div>
 	  
-		<div> Forget password? <a class="">Recovering</a></div>
+		<div> Forget password? <a className="">Recovering</a></div>
 		</form>
 		
 		

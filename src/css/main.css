@@ -1658,3 +1658,85 @@ width:20%;
 margin-bottom:20px;
 }
 
+
+
+
+
+/* frnd lsts */
+
+.mcqwzfrd {
+background:#fff;
+border-radius:15px;
+padding:10px;
+}
+
+.cz_mn_2_1 {
+display:inline-block;
+width:100%;
+}
+
+
+
+.cz_mn_2_3 {
+display:flex;
+width:100%;
+flex-wrap:wrap;
+}
+
+.cz_mn_2_3 > div {
+padding-left:10px;
+padding-bottom:10px;
+}
+
+.cz_mn_2_3 > div text {
+opacity:0.6;
+}
+
+
+.cz_mn_2_3 > * {
+display:flex;
+width:20%;
+}
+
+.cz_mn_2_4_img {
+max-width:100%;
+}
+
+.c12zz_flx_col {
+flex-direction:column;
+}
+
+
+.cz213_srch {
+margin-top:10px;
+display:flex;
+width:100%;
+flex-wrap: nowrap;
+}
+
+.cz213_srch > .cz1 {
+display:flex;
+width:90%;
+}
+
+.cz213_srch > .cz2 {
+display:flex;
+width:10%;
+}
+
+
+
+
+.wi_100 {
+width:100% !important;
+}
+
+.czsrchz__2 {
+border-radius: 0 10px 10px 0;
+    width: 100%;
+    height: 45px;
+    position: relative;
+    margin-left: 0px;
+}
+
+
