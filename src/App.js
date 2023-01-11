@@ -7,7 +7,7 @@ import Profile from './page/profile.js';
 import Messaging from './page/messaging.js';
 import Video from './page/videos.js';
 import Friends from './page/friends.js';
-
+import Notification from './page/notifications.js';
 
 
 import Communities, { Community } from './page/communities.js';
@@ -39,6 +39,9 @@ export default function App() {
 	<Route path="/community/:id" element={<Community/>} />
 	<Route path="/communities" element={<Communities/>} />
 	<Route path="/friends" element={<Friends/>} />
+	<Route path="/Notifications" element={<Notification/>} />
+	
+	
 	<Route path="/signup" element={<Signup/>} />
 	<Route path="/manga/:id" element={<Manga />} />	
     <Route path="/profile/:id" element={<Profile />} />	

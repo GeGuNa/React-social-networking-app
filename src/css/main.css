@@ -1740,3 +1740,40 @@ border-radius: 0 10px 10px 0;
 }
 
 
+
+
+/* notifications */
+
+
+
+.cz_notiflst {
+width: 100%;
+display: grid;
+grid-template-columns: auto;
+}
+
+.cz_notiflst > div {
+padding-left:10px;
+padding-bottom:10px;
+}
+
+
+.notfszpg {
+width:128px;
+}
+
+.cz_mn_2_4_img {
+max-width:100%;
+}
+
+.c12z2z_flx_colz {
+padding-right:10px;
+}
+
+.cpstlkqwe {
+background:#e3e3e3;
+color:#000;
+padding:10px;
+border-radius:15px;
+border:1px solid #e5d4d4;
+}
