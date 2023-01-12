@@ -1777,3 +1777,31 @@ padding:10px;
 border-radius:15px;
 border:1px solid #e5d4d4;
 }
+
+
+
+/*for manga */
+
+.mng_TTl {
+position:relative;
+width:100%;
+}
+
+.mng_TTl a {
+background: #4b4b40;
+position:absolute;
+width: 100%;
+padding:10px;
+color:#fff;
+}
+
+
+.mng_TTl_img {
+width:100%;
+}
+
+.czOpc {
+color:#000;
+opacity:0.6;
+}
+
