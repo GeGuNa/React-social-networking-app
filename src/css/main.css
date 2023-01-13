@@ -2141,3 +2141,65 @@ padding-left:10px;
 padding-right:10px;
 }
 
+
+/*blogs */
+
+.MBlog {
+display:flex;
+width:100%;
+flex-wrap:wrap;
+}
+
+.MBlog > * {
+display:flex;
+flex:0 0 auto;
+width:100%;
+margin-bottom:10px;
+}
+
+.MBlog_pd {
+padding-left:10px;
+}
+
+.MBlog_img {
+width:150px;
+}
+
+.MblogDetails {
+color: #8f8f8f;
+font-size: 0.8125rem;
+}
+
+
+
+.MblogDetailsPoint {
+display: inline-block;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: #8f8f8f;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    position: relative;
+    top: -3px;
+}
+
+
+.BlogNextPage{
+display:block;
+width:100%;
+margin-top:10px;
+}
+
+.BlogNextPage a {
+    text-align: center;
+    padding: 20px 10px 40px 10px;
+    width: 100%;
+    background: #5FCB71;
+    position: relative;
+    display: block;
+    color: #fff;
+    height: 50px;
+}
+
+
