@@ -9,6 +9,10 @@ import Video from './page/videos.js';
 import Friends from './page/friends.js';
 import Notification from './page/notifications.js';
 import Mangalist from './page/mangalist.js';
+import Mangaview from './page/mangaview.js';
+
+
+
 
 
 import Communities, { Community } from './page/communities.js';
@@ -42,7 +46,8 @@ export default function App() {
 	<Route path="/friends" element={<Friends/>} />
 	<Route path="/Notifications" element={<Notification/>} />
 	<Route path="/Mangalist" element={<Mangalist/>} />
-		
+	<Route path="/Mangaview/:id" element={<Mangaview/>} />
+			
 	
 	
 	
