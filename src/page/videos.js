@@ -40,7 +40,7 @@ export function VidlsS({name, picvid, prflpic, view, date}){
 
 export default function Video() {
 	
-
+/*
 const params = useParams();
   
 if (isNaN(params.id)) {
@@ -49,7 +49,9 @@ return (<Navigate to="/" replace={true} />)
   
 } else {
 	return (<Video_main id={Math.abs(params.id)}/>);
-}
+}*/
+
+return (<Video_main/>);
   
 }
 

@@ -10,8 +10,7 @@ import Friends from './page/friends.js';
 import Notification from './page/notifications.js';
 import Mangalist from './page/mangalist.js';
 import Mangaview from './page/mangaview.js';
-
-
+import Videoview from './page/videoview.js';
 
 
 
@@ -47,14 +46,15 @@ export default function App() {
 	<Route path="/Notifications" element={<Notification/>} />
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
-			
+	<Route path="/video/:id" element={<Videoview/>} />
+				
 	
 	
 	
 	<Route path="/signup" element={<Signup/>} />
 	<Route path="/manga/:id" element={<Manga />} />	
     <Route path="/profile/:id" element={<Profile />} />	
-    <Route path="/Video/:id" element={<Video />} />	
+    <Route path="/Videos" element={<Video />} />	
     <Route path="/Messaging/:id" element={<Messaging />} />	
 	<Route path="/aba/:id" 
 	 /* loader={() => {  {console.log('15')}  }}
