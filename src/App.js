@@ -12,6 +12,7 @@ import Mangalist from './page/mangalist.js';
 import Mangaview from './page/mangaview.js';
 import Videoview from './page/videoview.js';
 import Bloglst from './page/blogs.js';
+import Blogview from './components/blog/view.js';
 
 
 import Communities, { Community } from './page/communities.js';
@@ -48,6 +49,7 @@ export default function App() {
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/video/:id" element={<Videoview/>} />
+    <Route path="/Blog_post/:id" element={<Blogview/>} />
 				
 	
 	
