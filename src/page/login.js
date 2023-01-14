@@ -1,9 +1,41 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Main } from './funcs.js'
+import { useCookies } from 'react-cookie'
+
+
 
 
 function Login() {
+
+const [email, Setemail] = React.useState("")
+const [pass, Setpass] = React.useState("")
+
+
+
+const [cookies, setCookie] = useCookies()	
+	
+	
+/*React.useMemo(() => {	
+
+	setCookie('name','baha')
+	
+	console.log(cookies)
+	
+},[setCookie, cookies])	*/
+
+
+const smail = (event) => Setemail(event.target.value)
+const spass = (event) => Setpass(event.target.value)
+  
+   
+  function handleButton(event){
+    setCookie('login', email)
+    setCookie('pass', pass)
+    event.preventDefault()
+  }
+
+
   return (
 <Main>
 
@@ -45,17 +77,18 @@ function Login() {
 	
 <div className="Entrst">Enter to the site</div>	
 
+
 <form>
 	
-<input type="text" value="" placeholder="Full name"/> <br/>
-<input type="text" value="" placeholder="Yor password"/> <br/>
+<input type="text" value={email} onInput={smail} placeholder="Email" maxLength="129"/> <br/>
+<input type="text" value={pass} onInput={spass} placeholder="Password" maxLength="129"/> <br/>
 
 
 
  <br/>
 
+<button onClick={handleButton}>Testqeqwe</button>
 
-<button>Registration</button>
 </form>
 
 
@@ -120,7 +153,7 @@ function Login() {
 <div className="cz_datq">
 
 
-<div className="t21">New posts <a href=""> <b>5000</b> </a></div>
+<div className="t21">New posts <a href="/"> <b>5000</b> </a></div>
 
 
 
@@ -138,7 +171,7 @@ function Login() {
 
 <div className="cz_datq_pdngaz">
 	
-<div><a href="">What happened in ukraine?</a></div>		
+<div><a href="/">What happened in ukraine?</a></div>		
 	
 <div>
 qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe  
@@ -149,7 +182,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 <div className="kk_1"> 
 
 <div className="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
+<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="/">Michell</a>  
 </div>
 
 
@@ -189,7 +222,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 
 <div className="cz_datq_pdngaz">
 	
-<div><a href="">What happened in ukraine?</a></div>		
+<div><a href="/">What happened in ukraine?</a></div>		
 	
 <div>
 qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe  
@@ -200,7 +233,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 <div className="kk_1"> 
 
 <div className="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
+<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="/">Michell</a>  
 </div>
 
 
@@ -240,7 +273,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 
 <div className="cz_datq_pdngaz">
 	
-<div><a href="">What happened in ukraine?</a></div>		
+<div><a href="/">What happened in ukraine?</a></div>		
 	
 <div>
 qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe  
@@ -251,7 +284,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 <div className="kk_1"> 
 
 <div className="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
+<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="/">Michell</a>  
 </div>
 
 
@@ -292,7 +325,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 
 <div className="cz_datq_pdngaz">
 	
-<div><a href="">What happened in ukraine?</a></div>		
+<div><a href="/">What happened in ukraine?</a></div>		
 	
 <div>
 qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe  
@@ -303,7 +336,7 @@ qwecqwecqweqwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecqwe qwecqwecq
 <div className="kk_1"> 
 
 <div className="left cz_datq_pdngazz">
-<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="">Michell</a>  
+<img src="pics/d281cf9550d6abc5e3824f6b55e57983.jpg" width="25" height="25"/>	 <a href="/">Michell</a>  
 </div>
 
 
