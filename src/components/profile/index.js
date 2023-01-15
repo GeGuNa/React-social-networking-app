@@ -1,7 +1,10 @@
 import React from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { Main } from './funcs.js'
+import { Main } from '../../page/funcs.js'
 
+export function Shwimg({pic, alt}){
+	return <div style={{ paddingRight: '10px', marginBottom:'3px'}}><img alt={alt} src={pic}/></div>
+}
 
 
 function Profile() {
@@ -32,7 +35,10 @@ return (<>
 
 
 
-<div className="col-9 rnmg24">
+<div className="col-9">
+
+<div className="rnmg24">
+
 
 <div>
 <img src="/pics/0oRxrSt0fdw.jpg" className="rnmg25"/>
@@ -104,10 +110,57 @@ return (<>
 <div><a href="">More</a></div>
 </div>
 
+</div>
+
+
+<div className="c123czt13afqf" style={{ marginTop: '15px'}}>
+
+<div className="c13zzzz_all_items">
+
+<div className="cqz active">Photos</div>
+<div className="cqz">Videos</div>
+<div className="cqz">Music</div>
+<div className="cqz">Topics</div>
+
+</div>
+
+
+
+<div className="c13zzzz_all_items cqwezzz22itmnlst">
+
+
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
+<Shwimg pic={'/pics/CYjP_-UxpPs.jpg'} alt={'Imgage of someone'}/>
 
 
 
 
+
+
+</div>
+
+<div class="rnmg31">
+<a href="" class="rnmg32">See all</a>
+</div>
+
+</div>
 
 
 

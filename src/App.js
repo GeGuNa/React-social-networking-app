@@ -3,7 +3,7 @@ import Home from './page/home.js';
 import Login from './page/login.js';
 import Signup from './page/signup.js';
 import Manga from './page/manga.js';
-import Profile from './page/profile.js';
+import Profile from './components/profile/index.js';
 import Messaging from './page/messaging.js';
 import Video from './page/videos.js';
 import Friends from './page/friends.js';
