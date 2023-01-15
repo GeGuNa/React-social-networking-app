@@ -20,7 +20,7 @@ export function Main({children}) {
 <div className="row g-0">
 
 
-<Left_menu/>
+<Leftmenu/>
 
 
 <div className="col-10">
@@ -120,13 +120,13 @@ const qzz = zz(/^(\/(community|video)\/[0-9]+)$/g, location.pathname.toLowerCase
 
 return (<>
 
-{qzz == true ?  ( <div className="clnav">
+{qzz === true ?  ( <div className="clnav">
 <div className="c1">
 
 <div className="clnaqz1_">
 	
 	
-<div className="pdng21"><img src="/pics/icons8-home-94.png" width="40"/></div>
+<div className="pdng21"><img alt="Img"  src="/pics/icons8-home-94.png" width="40"/></div>
 
 <div><input className="pdng213zz" placeholder="Searching for the things"/></div>
 
@@ -192,7 +192,7 @@ return (<>
 				
 				
 			<div> <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M7 10l5 5 5-5z"></path></svg>   <span>Mary koberidze</span></div>
-			<div><img className="brdr21" src="/pics/MO_LxM2yi48.jpg" height="40" width="40"/></div>
+			<div><img alt="Img"  className="brdr21" src="/pics/MO_LxM2yi48.jpg" height="40" width="40"/></div>
 			
 			</div>
 			
@@ -216,7 +216,7 @@ return (<>
 
 
 
-export function Left_menu() {
+export function Leftmenu() {
 
 return (<>
 

@@ -11,7 +11,7 @@ import Notification from './page/notifications.js';
 import Mangalist from './page/mangalist.js';
 import Mangaview from './page/mangaview.js';
 import Videoview from './page/videoview.js';
-import Bloglst from './page/blogs.js';
+import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
 
 
@@ -45,10 +45,11 @@ export default function App() {
 	<Route path="/communities" element={<Communities/>} />
 	<Route path="/friends" element={<Friends/>} />
 	<Route path="/Notifications" element={<Notification/>} />
-	<Route path="/Blogs" element={<Bloglst/>} />
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/video/:id" element={<Videoview/>} />
+	
+	<Route path="/Blogs" element={<Bloglst/>} />
     <Route path="/Blog_post/:id" element={<Blogview/>} />
 				
 	

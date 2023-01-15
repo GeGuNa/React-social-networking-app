@@ -947,7 +947,7 @@ padding-right:20px;
 .clnaqz3_3 {
     display: flex;
     width: 16%;
-    justify-content: end;
+    justify-content: flex-end;
     flex: 0 0 auto;
 }
 

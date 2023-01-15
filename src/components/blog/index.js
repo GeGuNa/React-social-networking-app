@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, Navigate } from 'react-router-dom'
-import { Main } from './funcs.js'
+import { Main } from '../../page/funcs.js'
 
 
 export function Showblogs(props) {
