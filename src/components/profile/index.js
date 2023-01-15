@@ -1,11 +1,34 @@
 import React from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { Main } from '../../page/funcs.js'
+import './Prof.css'
+
 
 export function Shwimg({pic, alt}){
 	return <div style={{ paddingRight: '10px', marginBottom:'3px'}}><img alt={alt} src={pic}/></div>
 }
 
+
+
+export function Showfrndofps({pic, alt, name}){
+	return (<> 
+	
+	
+<div>
+
+<div>
+
+<div><img src={pic} alt={alt} className="cProfFrRightListFlxcolPHtround"/>	</div> 
+
+<div className="CprqweCLrqcnt"><Link className="CprqweCLrq" to="/">{name}</Link></div>
+
+</div>
+
+</div>
+
+	
+</>)
+}
 
 function Profile() {
 	
@@ -174,56 +197,56 @@ return (<>
 
 <div className="rnmg30">
 
-<div className="t21">Members <a href=""> <b>5000</b> </a></div>
+<div className="t21">Gifts <Link to="/gifts"> <b>5000</b> </Link></div>
 
 
 <div className="prfrmn">
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256 (9).jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256 (7).jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256.jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256.jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256.jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256.jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256 (1).jpg" width="80" height="80"/>	
 </div>
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img src="/gifts/256 (4).jpg" width="80" height="80"/>	
 </div>
 
 </div>
 
 
 <div className="rnmg31">
-<a href="" className="rnmg32">See all</a>
+<Link to="/" className="rnmg32">All gifts</Link>
 </div>
 
 
@@ -244,15 +267,10 @@ return (<>
 <div className="rprflmn">
 
 
-<div><a href="">News</a></div>
-<div><a href="">Reactions</a></div>
-<div><a href="">Search</a></div>
-
-
-</div>
-
-
-
+<div><Link to="/">News</Link></div>
+<div><Link to="/">Reactions</Link></div>
+<div><Link to="/">Search</Link></div>
+<div><Link to="/">My page</Link></div>
 
 </div>
 
@@ -260,6 +278,42 @@ return (<>
 
 
 
+
+</div>
+
+
+
+
+
+
+
+
+
+<div className="cProfFrRight">
+
+<div className="cfRlsTTl">Friends <Link to="/" className="cfRlsTTlNk"> 1,128 </Link></div>
+
+
+<div className="cProfFrRightList">
+
+
+
+
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+<Showfrndofps pic={'/pics/KXTvmL_0KAs.jpg'} name={'George'} alt={'Some pic who knows'}/>
+
+
+</div>
+
+
+
+</div>
 
 
 
