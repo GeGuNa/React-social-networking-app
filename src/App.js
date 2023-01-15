@@ -13,6 +13,7 @@ import Mangaview from './page/mangaview.js';
 import Videoview from './page/videoview.js';
 import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
+import Mangapstread from './components/manga/index.js';
 
 
 import Communities, { Community } from './page/communities.js';
@@ -47,6 +48,12 @@ export default function App() {
 	<Route path="/Notifications" element={<Notification/>} />
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
+	<Route path="/Mangaread/:id" element={<Mangapstread />} />
+		
+	
+	
+	
+	
 	<Route path="/video/:id" element={<Videoview/>} />
 	
 	<Route path="/Blogs" element={<Bloglst/>} />
