@@ -4,6 +4,7 @@ import Login from './page/login.js';
 import Signup from './page/signup.js';
 import Manga from './page/manga.js';
 import Profile from './components/profile/index.js';
+import Profileprivate from './components/profile/my.js';
 import Messaging from './page/messaging.js';
 import Video from './page/videos.js';
 import Friends from './page/friends.js';
@@ -49,7 +50,10 @@ export default function App() {
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/Mangaread/:id" element={<Mangapstread />} />
-		
+	
+	
+	<Route path="/Private" element={<Profileprivate />} />
+			
 	
 	
 	
