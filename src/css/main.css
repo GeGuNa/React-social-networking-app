@@ -14,10 +14,13 @@ font-size:16px;
 box-sizing: border-box;
 background: #dddcdc;
 margin:0;
-font-weight:400;
+font-weight:400 !important;
 overflow-x: hidden;
 }
 
+div {
+font-weight:400 !important;
+}
 
 
 

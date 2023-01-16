@@ -65,3 +65,66 @@ border-bottom: 1px solid #c0cfc288;
 color:#000;
 font-weight:400;
 }
+
+
+
+
+/* followings */
+
+.FlWngOfpRF {
+	background: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.CZFlwngLkn {
+color: #1f2224 !important;
+font-size:17px;
+}
+
+
+.Cz134z_22 {
+border-radius: 10px;
+margin-top:10px;
+background:#fff;
+    color: #000;
+    font-weight: bold;
+    border-bottom: 1px solid #c0cfc288;
+}
+
+
+.cZQEFlWEQ22 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.cZQEFlWEQ22:last-child {
+padding-bottom:10px;
+}
+
+
+
+.cZQEFlWEQ22 > div {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.cZQEFlWEQ22 > div > div {
+    float: left;
+}
+
+.CZD_11zz {
+    font-size: 16px;
+    color:#000;
+    line-height: 16px;
+}
+
+.CZr_desc {
+color: #626262;
+}
+
+
+.snacks6 {
+    margin-left: 0 !important;
+}
