@@ -15,6 +15,9 @@ import Videoview from './page/videoview.js';
 import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
 import Mangapstread from './components/manga/index.js';
+import Group from './components/group/index.js';
+
+
 
 
 import Communities, { Community } from './page/communities.js';
@@ -50,6 +53,10 @@ export default function App() {
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/Mangaread/:id" element={<Mangapstread />} />
+	
+	
+	<Route path="/Group/:id" element={<Group />} />
+	
 	
 	
 	<Route path="/Private" element={<Profileprivate />} />
