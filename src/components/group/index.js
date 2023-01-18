@@ -435,8 +435,8 @@ return (<>
 
 <div class="pqwez_zz2123"> 
 	
-<div><a href="">UnableToThinkOf</a> </div>
-<div><span>user</span></div>
+<div><a class="ClrOF_pst_on_PQ" href="">UnableToThinkOf</a> </div>
+<div><span class="ClrOF_pst_on_PQDC">Backend developer</span></div>
 
 </div>		
 	
@@ -462,7 +462,7 @@ return (<>
 
 <div>
 
-<div><a href="">Reply</a></div> <div><a href="">Report</a></div>
+<div><a href="" class="ClrOF_pst_on_PQ">Reply</a></div> <div><a href="" class="ClrOF_pst_on_PQDCRp">Report</a></div>
 
 </div>
 
@@ -497,8 +497,8 @@ return (<>
 
 <div class="pqwez_zz2123"> 
 	
-<div><a href="">UnableToThinkOf</a> </div>
-<div><span>user</span></div>
+<div><a class="ClrOF_pst_on_PQ" href="">UnableToThinkOf</a> </div>
+<div><span class="ClrOF_pst_on_PQDC">Backend developer</span></div>
 
 </div>		
 	
@@ -524,7 +524,8 @@ return (<>
 
 <div>
 
-<div><a href="">Reply</a></div> <div><a href="">Report</a></div>
+<div><a href="" class="ClrOF_pst_on_PQ">Reply</a></div> <div><a href="" class="ClrOF_pst_on_PQDCRp">Report</a></div>
+
 
 </div>
 
@@ -560,8 +561,8 @@ return (<>
 
 <div class="pqwez_zz2123"> 
 	
-<div><a href="">UnableToThinkOf</a> </div>
-<div><span>user</span></div>
+<div><a class="ClrOF_pst_on_PQ" href="">UnableToThinkOf</a> </div>
+<div><span class="ClrOF_pst_on_PQDC">Backend developer</span></div>
 
 </div>		
 	
@@ -587,7 +588,8 @@ return (<>
 
 <div>
 
-<div><a href="">Reply</a></div> <div><a href="">Report</a></div>
+<div><a href="" class="ClrOF_pst_on_PQ">Reply</a></div> <div><a href="" class="ClrOF_pst_on_PQDCRp">Report</a></div>
+
 
 </div>
 
@@ -622,8 +624,8 @@ return (<>
 
 <div class="pqwez_zz2123"> 
 	
-<div><a href="">UnableToThinkOf</a> </div>
-<div><span>user</span></div>
+<div><a class="ClrOF_pst_on_PQ" href="">UnableToThinkOf</a> </div>
+<div><span class="ClrOF_pst_on_PQDC">Backend developer</span></div>
 
 </div>		
 	
@@ -649,7 +651,8 @@ return (<>
 
 <div>
 
-<div><a href="">Reply</a></div> <div><a href="">Report</a></div>
+<div><a href="" class="ClrOF_pst_on_PQ">Reply</a></div> <div><a href="" class="ClrOF_pst_on_PQDCRp">Report</a></div>
+
 
 </div>
 

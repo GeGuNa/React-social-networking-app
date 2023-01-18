@@ -2404,12 +2404,26 @@ padding-left:10px;
 
 
 #pst_on_Topic > * {
-border-top:1px solid #d7d0d0;
+border-bottom:1px solid #d7d0d0;
 }
 
 
 /* end */
 
 
+
+
+.ClrOF_pst_on_PQ {
+color:#212225;
+}
+
+
+.ClrOF_pst_on_PQDC {
+color:#747474;
+}
+
+.ClrOF_pst_on_PQDCRp {
+color:tomato;
+}
 
 
