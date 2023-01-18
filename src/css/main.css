@@ -2206,3 +2206,115 @@ margin-top:10px;
 }
 
 
+
+
+
+
+/*  additional css for the posts */
+
+
+.CreactTpsqe {
+width:100%;
+display:flex;
+//padding:10px;
+//padding: 0 10px 33px 10px;
+}
+
+.CreactTpsqe >  * {
+flex-basis:50%;
+display:flex;
+//flex: 0 0 auto;
+flex-direction:row;
+}
+
+
+.CR_react1 {
+    width: 45px;
+    height: 40px;
+    background-repeat: no-repeat;
+}
+
+#rect1_z > div:not(:first-child) {
+margin-left: -14px;
+}
+
+#rect1_z {
+height:20px;
+}
+
+
+.BRdrqwe_p {
+border-top:1px solid #e7e5e5;
+}
+
+
+.Who_reacted {
+display:inline-block;
+height:63px;
+overflow:hidden;
+margin: 10px;
+}
+
+.Who_reacted > *{
+float:left;
+padding-left:10px;
+width:10%;
+}
+
+.Who_reacted > * img{
+max-width:70%;
+border-radius:50%;
+}
+
+.Recr_2 {
+padding-left:10px;
+}
+
+
+.Gr_pos_rel {
+position:relative;
+}
+
+.Gr_Post_Rectd {
+position:absolute;margin-top: -19px;margin-left: 42px;height: 10px;
+}
+
+.Gr_Post_Rectd > img {
+width:30px;
+}
+
+
+.Dtl_pp2zz {
+display:flex;
+width:100%;
+overflow:hidden;
+padding:10px;
+}
+
+.Dtl_pp2zz > *{
+display:flex;
+flex:1;
+}
+
+
+.Who_reacted_z2  > div:not(:first-child) {
+margin-left:-10px;
+}
+
+
+.Who_reacted_z2  > div{
+margin-left:-10px;
+}
+
+.Who_reacted_z2  > div img {
+width:30px;
+}
+
+.Who_reacted_z2:first-child {
+margin-left:10px;
+}
+
+.dflxend {
+justify-content:flex-end;
+}
+

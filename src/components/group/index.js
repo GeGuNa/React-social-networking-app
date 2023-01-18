@@ -155,53 +155,147 @@ return (<>
 
 
 
-	<div class="col-12">
+	<div className="col-12">
 
 
-<div class="snacks6">
+<div className="snacks6">
 
 
-<div class="ce12524">
+<div className="ce12524">
 
 
 <div>
 
-<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
-<div class="left snacks8"> 
+<div className="left snacks8"> 
 	<div><a href="">Nini koberidze</a></div>	
-	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
-<div class="right snacks10"> 
+<div className="right snacks10"> 
 	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
 </div>	
 
 
 
 
-<div class="crlrbth">
+<div className="crlrbth">
 			
-			<div class="text">
+			<div className="text">
 	
 				Nice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this oneNice very nice, i like this one !!!</div>
 			
 			
+	<div className="Dtl_pp2zz">
+	
+
+		<div className="Who_reacted_z2">
 			
-			</div>
+				<div><img src="/reactions/love.png"/></div>
+				<div><img src="/reactions/angry.png"/></div>
+				<div><img src="/reactions/funny.png"/></div>
+				<div><img src="/reactions/sad.png"/></div>
+
+		</div>	
+	
+	
+	
+	<div className="dflxend">
+	
+	
+	<div> Reposted <a href="">135-times</a></div>
+	
+	</div>
+	
+	
+	
+	
+	</div>	
+	
+			
+	
+	
+	<div className="BRdrqwe_p"></div>
+	
+	
+	
+	
+	
+	<div className="">
+	
+
+		<div className="Recr_2">Reactions:</div>
+	
+		<div className="Who_reacted">
+			
+			
+		<div>
+		<img src="/pics/282.jpg"/>
+		<div className="Gr_pos_rel"><div className="Gr_Post_Rectd"><img src="/reactions/angry.png"/></div></div>
+		</div> 
+		
+		<div>
+		<img src="/pics/282.jpg"/>
+		<div className="Gr_pos_rel"><div className="Gr_Post_Rectd"><img src="/reactions/like.png"/></div></div>
+		</div> 
+		
+		
+				<div>
+		<img src="/pics/282.jpg"/>
+		<div className="Gr_pos_rel"><div className="Gr_Post_Rectd"><img src="/reactions/happy.png"/></div></div>
+		</div> 
+		
+		
+				<div>
+		<img src="/pics/282.jpg"/>
+		<div className="Gr_pos_rel"><div className="Gr_Post_Rectd"><img src="/reactions/funny.png"/></div></div>
+		</div> 
+		  
+				<div>
+				
+		<img src="/pics/282.jpg"/>
+		<div className="Gr_pos_rel"><div className="Gr_Post_Rectd"><img src="/reactions/love.png"/></div></div>
+		</div> 
+		
+		
+		
+		<div><img src="/pics/282.jpg"/></div>  
+		<div><img src="/pics/282.jpg"/></div>  
+		<div><img src="/pics/282.jpg"/></div>  
+		<div><img src="/pics/282.jpg"/></div>  
+		<div><img src="/pics/282.jpg"/></div>  
+
+		</div>	
+	
+	
+	
+	</div>	
+	
+	
+			
+		</div>			
+
+	
+	
+			
+			
+			
+			
+			
+	
 
 
 
-
-<div class="GR_PoSt_Flex">
+<div className="GR_PoSt_Flex">
 			
 			
 			<div>
 				
-				<div class="czinlwqeq">
-			    <div class="hrt1"> </div>
-				<div class="cz2z_fnt"> 25 </div>
+				<div className="czinlwqeq">
+			    <div className="hrt1"> </div>
+				<div className="cz2z_fnt"> 25 </div>
 				</div>
 				
 
@@ -213,9 +307,9 @@ return (<>
 			
 						<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cmntz_on_cwpad"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cmntz_on_cwpad"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -226,9 +320,9 @@ return (<>
 				
 				<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cp_share"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cp_share"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -247,15 +341,15 @@ return (<>
 
 
 
-<div class="col-12">
+<div className="col-12">
 
-<div class="MyProf_Prof_Data_things_Text">
+<div className="MyProf_Prof_Data_things_Text">
 
 
 <div>
-	<div class="Chzz_Data_Chld">
-	<div class="left"><img class="MyProf_Prof_Data_things_Text_pOStImg" src="/pics/282.jpg"/></div>
-	<div class="left"><textarea placeholder="Post the thing"></textarea></div>
+	<div className="Chzz_Data_Chld">
+	<div className="left"><img className="MyProf_Prof_Data_things_Text_pOStImg" src="/pics/282.jpg"/></div>
+	<div className="left"><textarea placeholder="Post the thing"></textarea></div>
 	</div>
 	
 	</div>
@@ -334,35 +428,35 @@ return (<>
 
 
 
-	<div class="col-12">
+	<div className="col-12">
 
 
-<div class="snacks6">
+<div className="snacks6">
 
 
-<div class="ce12524">
+<div className="ce12524">
 
 
 <div>
 
-<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
-<div class="left snacks8"> 
+<div className="left snacks8"> 
 	<div><a href="">Nini koberidze</a></div>	
-	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
-<div class="right snacks10"> 
+<div className="right snacks10"> 
 	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
 </div>	
 
 
 
 
-<div class="crlrbth">
+<div className="crlrbth">
 			
-			<div class="text">
+			<div className="text">
 	
 				Nice very nice, i like this one !!!</div>
 			
@@ -372,14 +466,14 @@ return (<>
 
 
 
-<div class="pstfl">
+<div className="pstfl">
 			
 			
 			<div>
 				
-				<div class="czinlwqeq">
-			    <div class="hrt1"> </div>
-				<div class="cz2z_fnt"> 25 </div>
+				<div className="czinlwqeq">
+			    <div className="hrt1"> </div>
+				<div className="cz2z_fnt"> 25 </div>
 				</div>
 				
 
@@ -391,9 +485,9 @@ return (<>
 			
 						<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cmntz_on_cwpad"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cmntz_on_cwpad"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -404,9 +498,9 @@ return (<>
 				
 				<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cp_share"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cp_share"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -414,7 +508,7 @@ return (<>
 			
 			
 
-<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+<div className="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
 
 
 
@@ -469,41 +563,41 @@ return (<>
 
 
 
-<div class="col-12">
+<div className="col-12">
 
 
-<div class="snacks6">
+<div className="snacks6">
 
 
-<div class="ce12524">
+<div className="ce12524">
 
 
 <div>
 
-<div class="left snacks7"><img class="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
-<div class="left snacks8"> 
+<div className="left snacks8"> 
 	<div><a href="">Nini koberidze</a></div>	
-	<div><span class="snacks9">6 Jan at 2:00 am</span></div>	
+	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
-<div class="right snacks10"> 
+<div className="right snacks10"> 
 	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
 </div>	
 
 
 
 
-<div class="crlrbth">
+<div className="crlrbth">
 			
-			<div class="text">
+			<div className="text">
 	
 				Pretty girl ❤️❤️❤️
 				</div>
 			
 			
-			<div class="img_detected_on_pst">
+			<div className="img_detected_on_pst">
 			<img src="/pics/jJ7g1VXRvqw.jpg"/>
 			</div>
 			
@@ -513,14 +607,14 @@ return (<>
 
 
 
-<div class="pstfl">
+<div className="pstfl">
 			
 			
 			<div>
 				
-				<div class="czinlwqeq">
-			    <div class="hrt1"> </div>
-				<div class="cz2z_fnt"> 25 </div>
+				<div className="czinlwqeq">
+			    <div className="hrt1"> </div>
+				<div className="cz2z_fnt"> 25 </div>
 				</div>
 				
 
@@ -532,9 +626,9 @@ return (<>
 			
 						<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cmntz_on_cwpad"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cmntz_on_cwpad"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -545,9 +639,9 @@ return (<>
 				
 				<div>
 				
-				<div class="czinlwqeq">
-			    <div class="cp_share"> </div>
-				<div class="cz2z_fnt"> 35 </div>
+				<div className="czinlwqeq">
+			    <div className="cp_share"> </div>
+				<div className="cz2z_fnt"> 35 </div>
 				</div>
 				
 
@@ -555,7 +649,7 @@ return (<>
 			
 			
 
-<div class="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
+<div className="right c123c1add"><svg stroke="currentColor" fill="#c4c8cd" stroke-width="0" viewBox="0 0 1024 1024" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M396 512a112 112 0 1 0 224 0 112 112 0 1 0-224 0zm546.2-25.8C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 0 0 0 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM508 688c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z"></path></svg> 35</div>
 
 
 
@@ -657,12 +751,12 @@ return (<>
 
 
 
-<div class="rnmg30">
+<div className="rnmg30">
 
-<div class="t21">Members <a href=""> <b>5,140</b> </a></div>
-<div class="Gr_Titl">Including some of your friends such as <a href="">Gega</a>, <a href="">Guga</a> and 55 of your <a href="">connections</a> </div>
+<div className="t21">Members <a href=""> <b>5,140</b> </a></div>
+<div className="Gr_Titl">Including some of your friends such as <a href="">Gega</a>, <a href="">Guga</a> and 55 of your <a href="">connections</a> </div>
 
-<div class="Gr_List">
+<div className="Gr_List">
 
 
 <div>
@@ -699,8 +793,8 @@ return (<>
 </div>
 
 
-<div class="rnmg31">
-<a href="" class="Gr_Inviting">Invite people</a>
+<div className="rnmg31">
+<a href="" className="Gr_Inviting">Invite people</a>
 </div>
 
 
@@ -716,15 +810,15 @@ return (<>
 
 
 
-<div class="Gr_Desc">
+<div className="Gr_Desc">
 
 
 <div><b>About group</b></div>
 
-<div class="Gr_DescText">Everything about  C/C++/D/LLVM IR/Js/Python/Pointers/allocations/Coding styles/Syntaxes and so on and so forth</div>
+<div className="Gr_DescText">Everything about  C/C++/D/LLVM IR/Js/Python/Pointers/allocations/Coding styles/Syntaxes and so on and so forth</div>
 
-<div class="rnmg31">
-<a href="" class="Gr_Inviting">More about This group</a>
+<div className="rnmg31">
+<a href="" className="Gr_Inviting">More about This group</a>
 </div>
 
 </div>
@@ -737,23 +831,23 @@ return (<>
 
 
 
-<div class="GR_admin">
+<div className="GR_admin">
 
-<div class="t21"><b>Group Admin</b></div>
+<div className="t21"><b>Group Admin</b></div>
 
 
-<div class="GR_ADMin_2">
+<div className="GR_ADMin_2">
 
 
 
 	
 <div>
 
-<div class="left">
-<div class="GR_ADMin_2_img"> </div>
+<div className="left">
+<div className="GR_ADMin_2_img"> </div>
 </div>	
 
-<div class="left">
+<div className="left">
 <a href=""> Rob williams</a>	
 <div>Owner / founder</div>
 <div>Created in : <b>2010</b></div>
@@ -767,8 +861,8 @@ return (<>
 </div>
 
 
-<div class="rnmg31">
-<a href="" class="Gr_Inviting">Send text</a>
+<div className="rnmg31">
+<a href="" className="Gr_Inviting">Send text</a>
 </div>
 
 
