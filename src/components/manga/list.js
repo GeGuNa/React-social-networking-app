@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { Main } from './funcs.js'
+import { Main } from '../../page/funcs.js'
 
 
 export function ShowMng({name,img,chapter}) {

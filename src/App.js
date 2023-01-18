@@ -2,15 +2,25 @@ import { Routes, Route, Link, useParams, Navigate } from 'react-router-dom'
 import Home from './page/home.js';
 import Login from './page/login.js';
 import Signup from './page/signup.js';
-import Manga from './page/manga.js';
+
 import Profile from './components/profile/index.js';
 import Profileprivate from './components/profile/my.js';
 import Messaging from './page/messaging.js';
 import Video from './page/videos.js';
 import Friends from './page/friends.js';
 import Notification from './page/notifications.js';
-import Mangalist from './page/mangalist.js';
+
+
+
+
+
+import Manga from './components/manga/manga.js';
+import Mangalist from './components/manga/list.js';
 import Mangaview from './components/manga/view.js';
+
+
+
+
 import Videoview from './page/videoview.js';
 import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
@@ -50,9 +60,14 @@ export default function App() {
 	<Route path="/communities" element={<Communities/>} />
 	<Route path="/friends" element={<Friends/>} />
 	<Route path="/Notifications" element={<Notification/>} />
+	
+	
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/Mangaread/:id" element={<Mangapstread />} />
+	<Route path="/manga/:id" element={<Manga />} />	
+	
+	
 	
 	
 	<Route path="/Group/:id" element={<Group />} />
@@ -73,8 +88,7 @@ export default function App() {
 	
 	
 	
-	<Route path="/signup" element={<Signup/>} />
-	<Route path="/manga/:id" element={<Manga />} />	
+	<Route path="/signup" element={<Signup/>} />	
     <Route path="/profile/:id" element={<Profile />} />	
     <Route path="/Videos" element={<Video />} />	
     <Route path="/Messaging/:id" element={<Messaging />} />	
