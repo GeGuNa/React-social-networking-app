@@ -10,7 +10,7 @@ import Video from './page/videos.js';
 import Friends from './page/friends.js';
 import Notification from './page/notifications.js';
 import Mangalist from './page/mangalist.js';
-import Mangaview from './page/mangaview.js';
+import Mangaview from './components/manga/view.js';
 import Videoview from './page/videoview.js';
 import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
