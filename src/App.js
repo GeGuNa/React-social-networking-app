@@ -17,6 +17,7 @@ import Notification from './page/notifications.js';
 import Manga from './components/manga/manga.js';
 import Mangalist from './components/manga/list.js';
 import Mangaview from './components/manga/view.js';
+import Byauthor from './components/manga/authors.js';
 
 
 
@@ -65,10 +66,8 @@ export default function App() {
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/Mangaread/:id" element={<Mangapstread />} />
+	<Route path="/manga/byauthor/:id" element={<Byauthor />} />	
 	<Route path="/manga/:id" element={<Manga />} />	
-	
-	
-	
 	
 	<Route path="/Group/:id" element={<Group />} />
 	
