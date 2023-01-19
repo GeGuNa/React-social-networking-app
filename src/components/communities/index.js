@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { Main } from './funcs.js'
+import { Main } from '../../page/funcs.js'
+import './community.css'
+
 
 export function Community() {
 	return (<>
@@ -571,6 +573,196 @@ return (<>
 
 
 <div className="col-9 cmnt2z1qwer">
+
+
+
+
+<div class="CQWEz_22z">
+
+<div class="Head_Rec_Vis">
+
+<div class="GRFvSTTl"> Recently you visited</div>
+
+<div class="GRFvSTTl right"> <a href="">Clear</a></div>
+
+
+</div>
+
+
+
+<div class="Head_Rec_Viszzzz">
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
+</div>   
+
+
+
+</div>
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div>Whocares </div>	
+</div>   
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <div className="cmnt">
 	
