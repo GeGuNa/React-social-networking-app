@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Main } from './funcs.js'
-
+import { Useraw } from '../inc/User.js'
 
 export function Pstwdtls({pic, text, date,prflpic,prflname,like,share,comment}) {
-	
+		
+
 return (<>
 
 
@@ -51,6 +52,8 @@ function Home() {
 	
 const [cz, Setcz] = useState({aba:'15',baba:'25'})	
 
+
+console.log(Useraw())
 
 
 	

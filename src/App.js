@@ -1,4 +1,5 @@
 import { Routes, Route, Link, useParams, Navigate } from 'react-router-dom'
+import { UserA } from './inc/User.js';
 import Home from './page/home.js';
 import Login from './page/login.js';
 import Signup from './page/signup.js';
@@ -31,7 +32,12 @@ import Group from './components/group/index.js';
 
 
 
+
 import Communities, { Community } from './components/communities/';
+
+
+const qqzqwe = {buha:15,add:25}
+
 
 
 export function Errordetection() {
@@ -54,6 +60,7 @@ export function Aba(){
 
 export default function App() {
   return (
+  <UserA.Provider value={qqzqwe}>
   <Routes>
 	<Route path="/" element={<Home/>} />
 	<Route path="/login" element={<Login/>} />
@@ -102,6 +109,7 @@ export default function App() {
 	/>	
 	<Route path="/*" element={<Errordetection/>} />
   </Routes>
+  </UserA.Provider>
   );
 }
 
