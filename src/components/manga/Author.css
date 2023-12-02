@@ -1,0 +1,67 @@
+
+/* By authors */
+
+.ByTbl {
+display:table;
+}
+
+.czrMngAUt {
+background:#fff;
+width:100%;
+}
+
+
+
+.CzMNGqweTiTLe {
+width:100%;
+font-size:20px;
+font-weight:bolder;
+padding: 10px;
+}
+
+
+.czFLDDMNG {
+display:inline-block;
+width:100%;
+padding:10px;
+}
+
+.czFLDDMNG > * {
+float:left;
+}
+
+.CZMManga_Related_by_AUth {
+    height: 154px;
+    width: 115px;
+}
+
+.HeadOFByAuth {
+    color: #fff;
+    font-size: 20px;
+    background: tomato;
+    padding: 6px 10px 0 10px;
+}
+
+.EnTire_TT {
+background:#ffffff;
+}
+
+.czFLDDMNG > *:not(:first-child) {
+padding-left:10px;
+}
+
+.clr2_pqzz {
+    color: #ee294d;
+}
+
+.HeadOFByAuth a {
+color: #fff !important;
+}
+
+.cqepzrrl {
+position:relative;
+}
+
+.prsqrrgh {
+position:absolute;/* float: initial; */margin-top: -36px;margin-right: -10px;right: 0;/* height: 46px; */background: black;width: 46px;font-size: 24px;padding: 0;text-align: center;
+}

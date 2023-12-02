@@ -1,0 +1,76 @@
+.cdinl_zb {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+} 
+  
+  
+ .GR_CRT_BT {
+ padding:10px;
+ background:#2a5885;
+ color:#fff;
+ border-radius:15px;
+ } 
+  
+  
+  .CQWEz_22z {
+  
+   width:100%;
+  overflow:hidden;
+  padding:10px;
+  background:#fff;
+  margin-bottom:10px; 
+  border-radius:15px;
+  
+  }
+  
+  .Head_Rec_Vis {
+  width:100%;
+  overflow:hidden;
+  //padding:10px;
+  display:inline-block;
+  background:#fff;
+  //margin-bottom:10px;
+  }
+
+.Head_Rec_Vis div {
+padding-left:10px;
+float:left;
+}
+
+.GRFvSTTl {
+padding:10px;
+font-weight:600!important;
+}
+
+.CGRPimg {
+width:80px;
+height:80px;
+border-radius:50%;
+}
+
+
+
+  .Head_Rec_Viszzzz {
+  width:100%;
+  overflow:hidden;
+  display:flex;
+  background:#fff;
+  margin:auto;
+  }
+
+.Head_Rec_Viszzzz div {
+    display: flex;
+    /* flex-basis: 100%; */
+    flex: 1;
+    flex-direction: column;
+    padding-left: 4px;
+}
+
+.flc_xx12_zdr { 
+flex-direction:column;
+}
+
+.crl_lkggrp {
+color:#412c2d;
+}

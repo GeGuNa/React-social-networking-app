@@ -1,0 +1,83 @@
+
+/* Mngviw*/
+
+.slct_of_manga {
+padding: 10px 27px 10px 8px;
+    background: #ebebeb;
+    appearance: none;
+    border-color: #ebebeb;
+    width:100%;
+}
+
+.slct_of_manga option {
+background-color: #f7f7f5;
+padding:20px !important;
+min-height: 1.4em;
+}
+
+
+
+select .slct_of_manga:active {
+border:0  !important;
+border-color:unset !important;
+}
+
+
+.Czmng_2 {
+width: 30%;
+padding-left:10px;
+padding-right:10px;
+}
+
+
+.Czmng_2::after {
+position: absolute;
+    margin-left: -24px;
+    margin-top: 15px;
+    background-image: url('data:image/svg+xml;utf8,<svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 17 17" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g></g><path d="M11.642 12.063l0.716 0.698-3.858 3.955-3.858-3.954 0.716-0.698 2.642 2.707v-12.542l-2.642 2.708-0.716-0.699 3.858-3.954 3.858 3.954-0.716 0.698-2.642-2.707v12.543l2.642-2.709z"></path></svg>');
+    content: '';
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+}
+
+.Cbn123_zz11 {
+padding:10px;
+background: #765241;
+color:#fff;
+border-radius:10px;
+width:20%;
+}
+
+
+.czHdMng {
+display:block;
+width:100%;
+}
+
+.czHdMng div {
+float:left;
+width:50%;
+}
+
+
+.czListOFmng {
+width:100%;
+display:grid;
+grid-template-columns:auto;
+background:#fff;
+margin-top:15px;
+padding:10px;
+margin-bottom:10px;
+}
+
+.czListOFmng div {
+width:100%;
+padding-bottom:10px;
+}
+
+.czListOFmng div img {
+text-align:center;
+display:block;
+margin:auto;
+}

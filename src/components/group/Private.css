@@ -1,0 +1,335 @@
+
+/* group */
+
+.Gr_Titl {
+padding:10px;
+}
+
+.Gr_List {
+display:inline-block;
+width:97%;
+overflow:hidden;
+clear: both;
+}
+
+.Gr_List > div {
+float:left;
+width:20%;
+padding-left:10px;
+}
+
+.Gr_List > div img {
+max-width:100%;
+border-radius:50%;
+}
+
+
+.Gr_Inviting {
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    padding: 10px;
+    background: #5a82b5;
+    width: 100%;
+    display: block;
+}
+
+.Gr_Desc {
+margin-top:15px;
+width:100%;
+padding:10px;
+color:#000;
+background:#fff;
+border-radius:10px;
+}
+
+
+
+
+.Gr_DescText {
+margin-top:15px;
+color:#000;
+}
+
+
+.GR_admin {
+border-radius:10px;
+margin-top:15px;
+width:100%;
+background:#fff;
+}
+
+.GR_ADMin_2 {
+width:100%;
+display: inline-block;
+}
+
+.GR_ADMin_2 > div {
+padding:10px;
+}
+
+
+.GR_ADMin_2_img {
+width:80px;
+height:80px;
+background:gray;
+border-radius:4px;
+margin-right:10px;
+}
+
+
+.GR_PoSt_Flex {
+display:inline-flex;
+width:100%;
+}
+
+.GR_PoSt_Flex > div {
+flex:1;
+display:inline-flex;
+background:#cacaca;
+padding:10px;
+align-items: center;
+justify-content:center;
+}
+
+
+.GR_PoSt_Flex > div:hover {
+background:#e9e4e4;
+}
+
+
+
+.ce12524 > div {
+    padding-bottom: 0!important;
+}
+
+
+
+.GR_ADMin_2_img_prf {
+    width: 116px;
+    height: 107px;
+    background: gray;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+/* prof friends */
+
+.cProfFrRight {
+margin-top: 27px;
+margin-left: 0px;
+background: #fff;
+border-radius: 10px;
+}
+
+.cProfFrRightList {
+display:flex;
+flex-wrap:wrap;
+    width: 100%;
+    margin: auto;
+    margin-top:10px;
+    justify-content: center;
+    /* padding: 0 10px 0 10px;*/
+    
+}
+
+.cProfFrRightList > div {
+display: flex;
+    /* flex-basis: 33.333333%; */
+    /* width: 20%; */
+	/* padding-left: 10px; */
+    padding-bottom: 8px;
+    margin-left: 6px;
+    flex: 1;
+}
+
+.cProfFrRightListFlxcol {
+flex-direction:column;
+}
+
+.cProfFrRightListFlxcolPHtround {
+width:80px;
+height:80px;
+border-radius:50%;
+}
+
+
+.CprqweCLrqcnt {
+text-align:center;
+}
+
+
+.CprqweCLrq {
+color:#000;
+font-weight:500;
+}
+
+
+.cfRlsTTl {
+padding:10px;
+color:#000;
+font-weight:bold;
+border-bottom: 1px solid #c0cfc288;
+}
+
+
+
+.cfRlsTTlNk {
+color:#000;
+font-weight:400;
+}
+
+
+
+
+/* followings */
+
+.FlWngOfpRF {
+	background: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.CZFlwngLkn {
+color: #1f2224 !important;
+font-size:17px;
+}
+
+
+.Cz134z_22 {
+border-radius: 10px;
+margin-top:10px;
+background:#fff;
+    color: #000;
+    font-weight: bold;
+    border-bottom: 1px solid #c0cfc288;
+}
+
+
+.cZQEFlWEQ22 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.cZQEFlWEQ22:last-child {
+padding-bottom:10px;
+}
+
+
+
+.cZQEFlWEQ22 > div {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.cZQEFlWEQ22 > div > div {
+    float: left;
+}
+
+.CZD_11zz {
+    font-size: 16px;
+    color:#000;
+    line-height: 16px;
+}
+
+.CZr_desc {
+color: #626262;
+}
+
+
+.snacks6 {
+    margin-left: 0 !important;
+}
+
+
+
+/* Private page */
+
+
+.MyProf_img {
+    /* max-width: 100%; */
+    height: 350px;
+    background-attachment: inherit;
+    width: 100%;
+    background: #bebebe;
+    border-radius: 10px 10px 0 0;
+}
+
+
+.MyProf_Prof_Data_things {
+display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.MyProf_Prof_Data_things > div {
+flex-basis:14%;
+padding-right:2px;
+padding-bottom:10px;
+}
+
+.MyProf_Prof_Data_things > div img {
+max-width:100%;
+}
+
+.MyProf_Prof_Data_things_Text {
+margin-top:15px;
+display: block;
+width:100%;
+overflow:hidden;
+background:#fff;
+    padding: 10px;
+    border-radius:15px 15px 0 0;
+}
+
+.MyProf_Prof_Data_things_Text div textarea {
+width: 100%;
+    border-color: #d6c7c7;
+    resize: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.MyProf_Prof_Data_things_Text div button {
+width: 100%;
+    resize: none;
+    border-radius: 15px;
+    padding: 10px;
+margin-top:10px;
+background:#447bba;
+color:#fff;
+}
+
+
+.MyProf_Prof_Data_things_Text_pOStImg {
+width:80px;
+border-radius:15px;
+}
+
+.Chzz_Data_Chld {
+display:inline-block;width:100%;overflow: hidden;
+}
+
+.Chzz_Data_Chld > *:first-child {
+width:9%;
+}
+
+.Chzz_Data_Chld > *:last-child {
+width:91%;
+}
+
+.Prfol_ph {
+position:relative;float: right;
+}
+
+.Prfol_ph_2 {
+color: #000;position:absolute;margin-left: -140px;margin-top: 17px;background: #fff;border-radius: 10px;padding: 7px 0 12px 11px;width: 124px;height: 38px;
+}
+
+
