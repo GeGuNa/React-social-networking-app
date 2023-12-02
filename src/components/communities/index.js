@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { Main } from '../../page/funcs.js'
+import { Main, MainForAuthorized } from '../../page/funcs.js'
 import './community.css'
 
 
@@ -569,7 +569,7 @@ const [List,setList] = useState(
 
 return (<>
 
-<Main>
+<MainForAuthorized>
 
 
 <div className="col-9 cmnt2z1qwer">
@@ -899,7 +899,7 @@ return (<>
 </div>
 
 
-</Main>
+</MainForAuthorized>
 
 
 

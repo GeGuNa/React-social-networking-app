@@ -4,6 +4,222 @@ src: url('../fonts/NotoSans-Regular.ttf');
 }
 
 
+
+
+@font-face {
+  font-family: "Material Symbols Rounded";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/material-symbols-rounded.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Material Symbols Sharp";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/material-symbols-sharp.woff2") format("woff2");
+}
+
+
+@font-face {
+  font-family: "Material Symbols Outlined";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/material-symbols-outlined.woff2") format("woff2");
+}
+
+
+.material-symbols-rounded {
+  font-family: "Material Symbols Rounded";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+
+
+
+
+
+
+.material-symbols-sharp {
+  font-family: "Material Symbols Sharp";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+
+
+
+
+
+.material-symbols-outlined {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+
+
+
+
+
+.pfsqq_2 {
+	background: #fff;
+    padding: 10px;
+    width: 100%;
+        border-radius: 10px 10px 0 0;
+}
+
+
+
+.kLmenu3 {
+    background: #fff;
+    padding: 2px 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+
+.cl_mn_forAuthorize {
+width:90%;
+margin:auto;
+overflow:hidden;
+}
+
+
+.plefsQ {
+display:flex;
+width:100%;
+gap:5px;
+}
+
+.plefsQ > div img {
+width:60px;
+height:60px;
+object-fit:cover;
+border-radius:30px;
+}
+
+
+.pleSeparator {
+    padding-top: 15px;
+    border-bottom: 1px solid #ededed;
+}
+
+
+.kl_slef1 {
+display:flex;
+gap:5px;
+align-content:center;
+}
+
+.kl_slef1 > a {
+color: #000 !important;
+}
+
+.kl_slef1 > a:hover {
+color: #0d6efd !important;
+}
+
+.a_selfc1{ 
+    align-self: center;
+}
+
+
+
+
+.cmnt_n_34 { 
+	background:#fff;
+	width:100%;
+	height:100px;
+	display:flex;
+	overflow:hidden;
+	justify-content:space-between;
+    margin-bottom: 15px;
+}
+
+
+.cmnt_n_34_st { 
+	width: 100%;
+	height: 100%;
+	display: flex;
+	gap: 10px;
+	overflow: hidden;
+	justify-content: start;
+}
+
+
+
+
+.clnt34_ab  {
+	cursor:pointer;
+	border-radius:10px;
+	background:#0085ff;
+	padding:7px 15px;
+	color:#fff;
+	text-align: center;
+}
+
+.cmnt_n_34_st > div > img {
+	border-radius:10px;
+	height: 100%;
+	width: 95%;
+	object-fit:cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .lftmn123123z {
 background: #0aabfe;
 }

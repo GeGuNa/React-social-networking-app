@@ -336,3 +336,263 @@ return (<>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+export function LeftSideForAuthorized() {
+
+
+/* 
+
+style={{marginTop: '15px'}}
+*/
+return (<>
+
+
+<div className="col-2">
+		   
+
+			
+			
+						<div class="pfsqq_2">
+							
+									<div class="plefsQ">
+										
+											<div>
+												<img width="60" src="/pics/001P0DUIly1h9ksezlkv9j60zk1bfwve02.jpg"/>
+											</div>
+												
+											<div class="a_selfc1">
+												<div>George koberidze</div>
+												<div><a href="">My page</a></div>
+											</div>
+											
+											
+									</div>
+							
+										<div class="pleSeparator"></div>
+								
+						</div>
+		
+		
+		
+			
+					<div class="kLmenu3">			
+			
+				
+								
+					<div>
+									
+						<div class="kl_slef1"><span class="material-symbols-outlined">home</span> <a href="">Home</a></div>
+
+					</div>
+						
+				
+
+		
+				<div>
+									
+						<div class="kl_slef1"><span class="material-symbols-outlined">person</span> <a href="">People</a></div>
+
+					</div>
+	
+		
+				<div>
+									
+						<div class="kl_slef1"><span class="material-symbols-outlined">workspace_premium</span> <a href="">Event</a></div>
+
+					</div>
+		
+
+		
+		<div>
+									
+			<div class="kl_slef1"><span class="material-symbols-outlined">perm_media</span> <a href="">Pages</a></div>
+
+		</div>
+		
+	
+		
+		<div>
+									
+			<div class="kl_slef1"><span class="material-symbols-outlined">workspaces</span> <a href="">Group</a></div>
+
+		</div>
+		
+	
+		
+		<div>
+									
+			<div class="kl_slef1"><span class="material-symbols-outlined">store</span> <a href="">Marketplace</a></div>
+
+		</div>
+
+		<div>
+									
+			<div class="kl_slef1"><span class="material-symbols-outlined">bookmark_add</span> <a href="">Favorites</a></div>
+
+		</div>
+		
+	
+		
+		<div>
+									
+			<div class="kl_slef1"><span class="material-symbols-outlined">settings</span> <a href="">Settings</a></div>
+
+		</div>
+		
+	
+				
+				
+				
+				
+				
+				
+		<div> </div>		
+				
+				</div>
+						
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+		</div>
+		
+
+
+
+
+</>)
+
+
+}
+
+
+
+
+
+export function MainForAuthorized({children}) {
+
+
+return (<>
+	
+	
+	<Nav />
+	
+<div className="cl_mn_forAuthorize">
+
+
+<div className="row g-0">
+
+
+<LeftSideForAuthorized />
+
+
+<div className="col-10">
+
+
+
+<div className="row">
+
+
+<div className="col-12">
+
+
+<div className="row">
+
+
+<div className="col-12">
+
+
+
+
+<div className="row" style={{marginLeft:'10px'}}>
+	
+
+{children}
+
+
+	
+	
+</div>
+
+
+
+</div>
+
+
+
+
+<div className="col-12"></div>
+
+
+<div className="col-12"></div>
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+</div>  
+  
+  
+ <Footer/> 
+	
+	
+	
+	</>)
+}
+
