@@ -509,6 +509,10 @@ display:block;
 padding:10px;
 }
 
+.rprflmn > div:hover a {
+color:#fff !important;
+}
+
 .rprflmn > div a {
 color:#000;
 }
@@ -518,7 +522,7 @@ color:#fff;
 }
 
 .rprflmn > div:hover {
-background:gray;
+background:#cec5c5;
 color:#000;
 }
 
