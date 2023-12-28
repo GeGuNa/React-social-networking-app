@@ -373,36 +373,36 @@ return (<>
 
 			
 			
-						<div class="pfsqq_2">
+						<div className="pfsqq_2">
 							
-									<div class="plefsQ">
+									<div className="plefsQ">
 										
 											<div>
-												<img width="60" src="/pics/001P0DUIly1h9ksezlkv9j60zk1bfwve02.jpg"/>
+												<img alt="xz" width="60" src="/pics/001P0DUIly1h9ksezlkv9j60zk1bfwve02.jpg"/>
 											</div>
 												
-											<div class="a_selfc1">
+											<div className="a_selfc1">
 												<div>George koberidze</div>
-												<div><a href="">My page</a></div>
+												<div><a href="/">My page</a></div>
 											</div>
 											
 											
 									</div>
 							
-										<div class="pleSeparator"></div>
+										<div className="pleSeparator"></div>
 								
 						</div>
 		
 		
 		
 			
-					<div class="kLmenu3">			
+					<div className="kLmenu3">			
 			
 				
 								
 					<div>
 									
-						<div class="kl_slef1"><span class="material-symbols-outlined">home</span> <a href="">Home</a></div>
+						<div className="kl_slef1"><span className="material-symbols-outlined">home</span> <a href="/">Home</a></div>
 
 					</div>
 						
@@ -411,14 +411,14 @@ return (<>
 		
 				<div>
 									
-						<div class="kl_slef1"><span class="material-symbols-outlined">person</span> <a href="">People</a></div>
+						<div className="kl_slef1"><span className="material-symbols-outlined">person</span> <a href="/">People</a></div>
 
 					</div>
 	
 		
 				<div>
 									
-						<div class="kl_slef1"><span class="material-symbols-outlined">workspace_premium</span> <a href="">Event</a></div>
+						<div className="kl_slef1"><span className="material-symbols-outlined">workspace_premium</span> <a href="/">Event</a></div>
 
 					</div>
 		
@@ -426,7 +426,7 @@ return (<>
 		
 		<div>
 									
-			<div class="kl_slef1"><span class="material-symbols-outlined">perm_media</span> <a href="">Pages</a></div>
+			<div className="kl_slef1"><span className="material-symbols-outlined">perm_media</span> <a href="/">Pages</a></div>
 
 		</div>
 		
@@ -434,7 +434,7 @@ return (<>
 		
 		<div>
 									
-			<div class="kl_slef1"><span class="material-symbols-outlined">workspaces</span> <a href="">Group</a></div>
+			<div className="kl_slef1"><span className="material-symbols-outlined">workspaces</span> <a href="/">Group</a></div>
 
 		</div>
 		
@@ -442,13 +442,13 @@ return (<>
 		
 		<div>
 									
-			<div class="kl_slef1"><span class="material-symbols-outlined">store</span> <a href="">Marketplace</a></div>
+			<div className="kl_slef1"><span className="material-symbols-outlined">store</span> <a href="/">Marketplace</a></div>
 
 		</div>
 
 		<div>
 									
-			<div class="kl_slef1"><span class="material-symbols-outlined">bookmark_add</span> <a href="">Favorites</a></div>
+			<div className="kl_slef1"><span className="material-symbols-outlined">bookmark_add</span> <a href="/">Favorites</a></div>
 
 		</div>
 		
@@ -456,7 +456,7 @@ return (<>
 		
 		<div>
 									
-			<div class="kl_slef1"><span class="material-symbols-outlined">settings</span> <a href="">Settings</a></div>
+			<div className="kl_slef1"><span className="material-symbols-outlined">settings</span> <a href="/">Settings</a></div>
 
 		</div>
 		

@@ -1,4 +1,4 @@
-import { Routes, Route, Link, useParams, Navigate } from 'react-router-dom'
+import { Routes, Route, useParams, Navigate } from 'react-router-dom'
 import { UserA } from './inc/User.js';
 import Home from './page/home.js';
 import Login from './page/login.js';
@@ -10,33 +10,20 @@ import Messaging from './page/messaging.js';
 import Video from './page/videos.js';
 import Friends from './page/friends.js';
 import Notification from './page/notifications.js';
-
-
-
-
-
+import { Chaztroomss } from './components/chat/index.js';
 import Manga from './components/manga/manga.js';
 import Mangalist from './components/manga/list.js';
 import Mangaview from './components/manga/view.js';
 import Byauthor from './components/manga/authors.js';
-
-
-
-
 import Videoview from './page/videoview.js';
 import Bloglst from './components/blog/index.js';
 import Blogview from './components/blog/view.js';
 import Mangapstread from './components/manga/index.js';
 import Group from './components/group/index.js';
-
-
-
-
-
 import Communities, { Community } from './components/communities/';
 
 
-const qqzqwe = {buha:15,add:25}
+const qqzqwe = {buha:15, add:25}
 
 
 
@@ -64,40 +51,21 @@ export default function App() {
   <Routes>
 	<Route path="/" element={<Home/>} />
 	<Route path="/login" element={<Login/>} />
-
 	<Route path="/friends" element={<Friends/>} />
 	<Route path="/Notifications" element={<Notification/>} />
-	
-	
 	<Route path="/community/:id" element={<Community/>} />
 	<Route path="/communities" element={<Communities/>} />
-	
-	
-	
 	<Route path="/Mangalist" element={<Mangalist/>} />
 	<Route path="/Mangaview/:id" element={<Mangaview/>} />
 	<Route path="/Mangaread/:id" element={<Mangapstread />} />
 	<Route path="/manga/byauthor/:id" element={<Byauthor />} />	
 	<Route path="/manga/:id" element={<Manga />} />	
-	
 	<Route path="/Group/:id" element={<Group />} />
-	
-	
-	
 	<Route path="/Private" element={<Profileprivate />} />
-			
-	
-	
-	
-	
+	<Route path="/chat" element={<Chaztroomss />} />
 	<Route path="/video/:id" element={<Videoview/>} />
-	
 	<Route path="/Blogs" element={<Bloglst/>} />
     <Route path="/Blog_post/:id" element={<Blogview/>} />
-				
-	
-	
-	
 	<Route path="/signup" element={<Signup/>} />	
     <Route path="/profile/:id" element={<Profile />} />	
     <Route path="/Videos" element={<Video />} />	

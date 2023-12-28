@@ -1,0 +1,150 @@
+.kAppPagePhtChatHeading {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    background: url("../../components/images/kkchTlarge.jpg") center center / cover;
+    background-position: center center;
+}
+
+
+.klmanchlq1illumniation {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+
+.knmaninhedq123q {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    z-index: 999999;
+}
+
+
+.lmkmnaingq331 {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    color: rgb(255, 255, 255);
+    opacity: 0.85;
+    z-index: 999999;
+}
+
+
+
+
+.chMarginTopBt1a {
+    margin-bottom: 10px;
+}
+
+
+
+.topic_match_for_you_cats {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+.topic_match_for_you_cats a {
+    font-family: Open_Sans, Arial, Tahoma, sans-serif, Helvetica;
+    letter-spacing: 0px;
+    display: block;
+    color: rgba(0, 0, 0, 0.92) !important;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin: 7px;
+    padding: 7px 20px;
+}
+
+
+
+
+.gqchat_3 {
+    width: 100%;
+    display: block;
+}
+
+
+.gqchat2 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    justify-content: center;
+}
+
+
+.gqChat1 {
+    display: flex;
+    width: 33%;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.gqca51231 {
+    border-radius: 5px;
+}
+
+
+
+.gqca51231 {
+    display: flex;
+    width: 97%;
+    justify-content: center;
+    background: rgb(255, 255, 255);
+}
+
+
+.pchat1_m {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 10px;
+}
+
+
+.pFlexAlCenter {
+    align-self: center;
+}
+
+
+.kPhx80x80 {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+
+.kchTDName1F2za {
+    margin-top: 1px;
+}
+
+
+.kchTDName1F {
+    line-height: 23.4px;
+    margin-top: -4px;
+    font-weight: 600;
+    font-family: Inter;
+    font-size: 18px !important;
+    color: rgb(68, 68, 68) !important;
+}
+
+
+.mdtxtWhza1 {
+    font-size: 16px;
+    line-height: 22px;
+    color: rgb(136, 136, 136) !important;
+}
+

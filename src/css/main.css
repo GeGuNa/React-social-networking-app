@@ -187,7 +187,7 @@ color: #0d6efd !important;
 	display: flex;
 	gap: 10px;
 	overflow: hidden;
-	justify-content: start;
+	justify-content: flex-start;
 }
 
 

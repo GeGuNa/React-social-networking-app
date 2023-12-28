@@ -1,15 +1,19 @@
 import React, { useState } from 'react'
-import { Link, useParams, Navigate } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 import { Main, MainForAuthorized } from '../../page/funcs.js'
 import './community.css'
 
 
 export function Community() {
+	
+const qq = useParams()
+	
+	
 	return (<>
 	
 <Main>
 
-
+{qq}
 
 <div className="col-9 cmnt2z1qwer">
 
@@ -25,7 +29,7 @@ export function Community() {
 <div className="col-12 brwhite">
 
 <div className="c123zdsplt">
-<div><img className="rnmg271_kzr2" src="/pics/channels4_profile.jpg" width="128"/></div>
+<div><img alt="xz"   className="rnmg271_kzr2" src="/pics/channels4_profile.jpg" width="128"/></div>
 
 <div className="ndsg3 cqwe1z214_c1">
 <div className="fntq_22">Warm Autumn</div>
@@ -40,12 +44,12 @@ export function Community() {
 
 
 <div className="c123zdspltzc123">
-<div><a href="">Home</a></div>
-<div><a href="">About</a></div>
-<div><a href="">Members</a></div>
-<div><a href="">Videos</a></div>
-<div><a href="">Posts</a></div>
-<div><a href="">More</a></div>
+<div><Link to="/">Home</Link></div>
+<div><Link to="/">About</Link></div>
+<div><Link to="/">Members</Link></div>
+<div><Link to="/">Videos</Link></div>
+<div><Link to="/">Posts</Link></div>
+<div><Link to="/">More</Link></div>
 </div>
 
 
@@ -70,30 +74,30 @@ export function Community() {
 
 <div className="c13zzzz_all_items cqwezzz22itmnlst">
 
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"   src="/pics/CYjP_-UxpPs.jpg"/></div>
 
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
-<div><img src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"   src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"   src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"   src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"  src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
+<div><img alt="xz"    src="/pics/CYjP_-UxpPs.jpg"/></div>
 
 
 
 </div>
 
 <div className="rnmg31">
-<a href="" className="rnmg32">See all</a>
+<Link to="/" className="rnmg32">See all</Link>
 </div>
 
 </div>
@@ -113,16 +117,16 @@ export function Community() {
 
 <div>
 
-<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img alt="xz"  className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
 <div className="left snacks8"> 
-	<div><a href="">Nini koberidze</a></div>	
+	<div><Link to="/">Nini koberidze</Link></div>	
 	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
 <div className="right snacks10"> 
-	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
+	<div><Link to="/"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </Link></div>		
 </div>	
 
 
@@ -248,16 +252,16 @@ export function Community() {
 
 <div>
 
-<div className="left snacks7"><img className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
+<div className="left snacks7"><img alt="xz"  className="brdr21" src="/pics/KXTvmL_0KAs.jpg" width="50" height="50"/>	</div>
 	
 <div className="left snacks8"> 
-	<div><a href="">Nini koberidze</a></div>	
+	<div><Link to="/">Nini koberidze</Link></div>	
 	<div><span className="snacks9">6 Jan at 2:00 am</span></div>	
 </div>	
 
 
 <div className="right snacks10"> 
-	<div><a href="#"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </a></div>		
+	<div><Link to="/"> <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg> </Link></div>		
 </div>	
 
 
@@ -272,7 +276,7 @@ export function Community() {
 			
 			
 			<div className="img_detected_on_pst">
-			<img src="/pics/jJ7g1VXRvqw.jpg"/>
+			<img alt="xz"  src="/pics/jJ7g1VXRvqw.jpg"/>
 			</div>
 			
 			
@@ -397,22 +401,22 @@ export function Community() {
 <div className="rprflmn">
 
 
-<div><a href="">News</a></div>
-<div><a href="">Reactions</a></div>
-<div><a href="">Search</a></div>
-<div><a href="">Updates</a></div>
-<div><a href="">Comments</a></div>
-<div><a href="">Videos</a></div>
-<div><a href="">Photos</a></div>
-<div><a href="">Recommended</a></div>
-<div><a href="">Settings</a></div>
-<div><a href="">My page</a></div>
-<div><a href="">Pages</a></div>
+<div><Link to="/">News</Link></div>
+<div><Link to="/">Reactions</Link></div>
+<div><Link to="/">Search</Link></div>
+<div><Link to="/">Updates</Link></div>
+<div><Link to="/">Comments</Link></div>
+<div><Link to="/">Videos</Link></div>
+<div><Link to="/">Photos</Link></div>
+<div><Link to="/">Recommended</Link></div>
+<div><Link to="/">Settings</Link></div>
+<div><Link to="/">My page</Link></div>
+<div><Link to="/">Pages</Link></div>
 
 </div>
 
 <div className="rnmg31">
-<a href="" className="rnmg32">See all</a>
+	<Link to="/" className="rnmg32">See all</Link>
 </div>
 
 
@@ -445,7 +449,7 @@ export function Community() {
 
 <div className="rnmg30" style={{marginTop:'14px'}}>
 
-<div className="t21">Members <a href=""> <b>5000</b> </a></div>
+<div className="t21">Members <Link to="/"> <b>5000</b> </Link></div>
 
 
 <div className="cqwezzz22itmnlst">
@@ -456,51 +460,51 @@ export function Community() {
 
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 <div>
-<img src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
+<img alt="xz"  src="/pics/KXTvmL_0KAs.jpg" width="80" height="80"/>	
 </div>
 
 
@@ -509,7 +513,7 @@ export function Community() {
 
 
 <div className="rnmg31">
-<a href="" className="rnmg32">See all</a>
+<Link to="/" className="rnmg32">See all</Link>
 </div>
 
 
@@ -583,7 +587,7 @@ return (<>
 
 <div class="GRFvSTTl"> Recently you visited</div>
 
-<div class="GRFvSTTl right"> <a href="">Clear</a></div>
+<div class="GRFvSTTl right"> <Link to="/">Clear</Link></div>
 
 
 </div>
@@ -597,8 +601,8 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
-<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><Link to="/" class="crl_lkggrp">Who cares</Link> </div>	
 </div>   
 
 
@@ -610,22 +614,8 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
-<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
-</div>   
-
-
-
-</div>
-
-
-
-<div class="flc_xx12_zdr">
-
-
-<div> 
-<div><img class="CGRPimg" src="pics/282.jpg"/> </div>	
-<div><a href="" class="crl_lkggrp">Who cares</a> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><Link to="/" class="crl_lkggrp">Who cares</Link> </div>	
 </div>   
 
 
@@ -638,7 +628,21 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/282.jpg"/> </div>	
+<div><Link to="/" class="crl_lkggrp">Who cares</Link> </div>	
+</div>   
+
+
+
+</div>
+
+
+
+<div class="flc_xx12_zdr">
+
+
+<div> 
+<div><img alt="xz"  class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -652,7 +656,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -666,7 +670,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/HvP81gXfstQ.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -680,7 +684,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -694,7 +698,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -708,7 +712,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -721,7 +725,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -735,7 +739,7 @@ return (<>
 
 
 <div> 
-<div><img class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
+<div><img alt="xz"  class="CGRPimg" src="pics/0ittuJYYBho.jpg"/> </div>	
 <div>Whocares </div>	
 </div>   
 
@@ -767,7 +771,7 @@ return (<>
 <div className="cmnt">
 	
 <div>
-<img src="pics/7ehztC44L2k.jpg" width="50" height="50"/>
+<img alt="xz"  src="pics/7ehztC44L2k.jpg" width="50" height="50"/>
 </div>	
 
 <div style={{display:'table'}}>
@@ -830,13 +834,13 @@ return (<>
 
 	
 <div>
-<img src={val.pic} width="80" height="80"/>
+<img alt="xz"  src={val.pic} width="80" height="80"/>
 </div>	
 
 <div className="pd2">
-<div><a href="">{val.name}</a></div>
+<div><Link to="/">{val.name}</Link></div>
 <div>{val.desc}</div>
-<div><a href="" className="white">{val.followers} members</a></div>
+<div><Link to="/" className="white">{val.followers} members</Link></div>
 </div>	
 
 
@@ -882,17 +886,17 @@ return (<>
 
 <div className="rprflmn">
 
-<div><a href="">News</a></div>
-<div><a href="">Reactions</a></div>
-<div><a href="">Search</a></div>
-<div><a href="">Updates</a></div>
-<div><a href="">Comments</a></div>
-<div><a href="">Videos</a></div>
-<div><a href="">Photos</a></div>
-<div><a href="">Recommended</a></div>
-<div><a href="">Settings</a></div>
-<div><a href="">My page</a></div>
-<div><a href="">Pages</a></div>
+<div><Link to="/">News</Link></div>
+<div><Link to="/">Reactions</Link></div>
+<div><Link to="/">Search</Link></div>
+<div><Link to="/">Updates</Link></div>
+<div><Link to="/">Comments</Link></div>
+<div><Link to="/">Videos</Link></div>
+<div><Link to="/">Photos</Link></div>
+<div><Link to="/">Recommended</Link></div>
+<div><Link to="/">Settings</Link></div>
+<div><Link to="/">My page</Link></div>
+<div><Link to="/">Pages</Link></div>
 
 </div>
 
