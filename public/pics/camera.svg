@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 28</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="7.84664451%" y2="9.2496142%" id="linearGradient-1">
+            <stop stop-color="#EE396B" offset="0%"></stop>
+            <stop stop-color="#EE396B" offset="48.5420914%"></stop>
+            <stop stop-color="#FF6590" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-924.000000, -952.000000)">
+            <g id="编组-15" transform="translate(750.000000, 922.000000)">
+                <g id="编组-13" transform="translate(40.000000, 30.000000)">
+                    <g id="编组-28" transform="translate(134.000000, 0.000000)">
+                        <rect id="矩形" x="0" y="0" width="72" height="72"></rect>
+                        <path d="M47.4244316,4 C50.2593458,4 52.8825467,5.50032942 54.3199053,7.94383899 L57.294,13 L62,13 C67.5228475,13 72,17.4771525 72,23 L72,59 C72,64.5228475 67.5228475,69 62,69 L10,69 C4.4771525,69 6.76353751e-16,64.5228475 0,59 L0,23 C-6.76353751e-16,17.4771525 4.4771525,13 10,13 L14.706,13 L17.6800947,7.94383899 C19.1174533,5.50032942 21.7406542,4 24.5755684,4 L47.4244316,4 Z M36,25 C27.7157288,25 21,31.7157288 21,40 C21,48.2842712 27.7157288,55 36,55 C44.2842712,55 51,48.2842712 51,40 C51,31.7157288 44.2842712,25 36,25 Z M36,31 C40.9705627,31 45,35.0294373 45,40 C45,44.9705627 40.9705627,49 36,49 C31.0294373,49 27,44.9705627 27,40 C27,35.0294373 31.0294373,31 36,31 Z" id="形状结合" fill="url(#linearGradient-1)" opacity="0.7"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

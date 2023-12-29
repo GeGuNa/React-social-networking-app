@@ -148,3 +148,115 @@
     color: rgb(136, 136, 136) !important;
 }
 
+
+
+
+.header {
+    background-color: rgb(111, 66, 193);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+.pSUDQWZz {
+    background: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+
+.c_d1 {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    gap: 10px;
+}
+
+
+.c_d2 {
+    width: 100%;
+}
+
+
+.csttxt2_3z {
+    height: 40px;
+    width: 100%;
+    border-radius: 25px;
+    padding: 11px 15px 7px !important;
+}
+
+
+.CPosTFleXjust {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.cc_btn2 {
+    color: rgb(255, 255, 255);
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+}
+
+
+.ccl21_z2 {
+    position: absolute;
+    margin-top: -8px;
+    margin-left: -7px;
+}
+
+
+.skscht_1 {
+    padding-top: 7px;
+    padding-left: 4px;
+}
+
+.crzPDNGR {
+    padding-right: 10px;
+    cursor: pointer;
+    width: 35px;
+}
+
+.none {
+display:none;
+}
+
+
+textarea {
+    font-size: 14px;
+    resize: none;
+    width: 100%;
+    color: rgb(107, 124, 143);
+    font-weight: 500;
+    background-color: rgb(243, 244, 246);
+    padding: 10px;
+    border-width: 0px !important;
+    border-style: initial !important;
+    border-color: initial !important;
+    border-image: initial !important;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    cursor: pointer;
+    background: rgb(68, 123, 186);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 4px;
+    padding: 10px 12px;
+}
+
+.brqph {
+border-radius:50%;
+}
