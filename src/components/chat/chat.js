@@ -1,10 +1,27 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 import { MainForAuthorized } from '../../page/funcs.js'
 import './chat.css'
 
 
-export function Chaztroomss() {
+
+	
+	
+export function Chatid() {
+	
+const qq = useParams()
+	
+	
+	return (<>
+	
+	kek  {qq.id}
+	
+	
+	</>)	
+	
+}
+
+export function Chats() {
 	
 let QChatRoomData = [
 	{pic: '/pics/chat/boys.png',name:'For boys',url:'/',visitors:'/'},
