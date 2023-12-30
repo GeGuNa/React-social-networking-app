@@ -52,7 +52,12 @@ export default function App() {
   <UserA.Provider value={qqzqwe}>
   <Routes>
 	<Route path="/" element={<Home/>} />
+	
+	
 	<Route path="/login" element={<Login/>} />
+	<Route path="/signup" element={<Signup/>} />
+	
+	
 	<Route path="/friends" element={<Friends/>} />
 	<Route path="/Notifications" element={<Notification/>} />
 	<Route path="/community/:id" element={<Community/>} />
@@ -74,7 +79,7 @@ export default function App() {
 	<Route path="/video/:id" element={<Videoview/>} />
 	<Route path="/Blogs" element={<Bloglst/>} />
     <Route path="/Blog_post/:id" element={<Blogview/>} />
-	<Route path="/signup" element={<Signup/>} />	
+	
     <Route path="/profile/:id" element={<Profile />} />	
     <Route path="/Videos" element={<Video />} />	
     <Route path="/Messaging/:id" element={<Messaging />} />	
