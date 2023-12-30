@@ -10,6 +10,19 @@ import './chat.css'
 export function Chatid() {
 	
 const qq = useParams()
+
+
+const qqzData1 = [
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+];
+
 	
 	
 	return (<>
@@ -125,6 +138,123 @@ const qq = useParams()
 
 </form>
 
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="chat_zq_3">
+
+
+{qqzData1.map((val,ind) => (
+	
+
+<div class="chat_zq_1">
+	
+
+		<div>
+			<img style={{borderRadius:"10px"}} src="/photos/CYjP_-UxpPs.jpg" width="48" height="48"/>		</div>
+
+
+
+
+
+		
+<div class="chat_zq_4"> 
+
+			<div class="chat_zq_2"> 
+							
+<div> 
+	
+	
+	<a href="/info.php?id=3613">
+		<span class="nickCOlorQzk1zq">Fish in the ocean</span>
+	</a>  
+	
+
+								
+	
+	
+	</div>
+								
+								
+								 
+								<div>	
+									<span class="textChat"> Rapidly, Xz  why do you even care what others think  ? Matters only what do you think .... </span>  
+								</div>
+								
+			
+							
+
+						</div>
+
+
+
+	
+
+
+<div>
+
+	<div class="chat_zq_5"> 
+		
+		<div>
+			<a  href="?id=4_rct" class="clrWpstofLink">Like</a>
+		</div> 	
+
+		<div>
+			<a href="/" class="clrWpstofLink">Reply</a>
+		</div> 
+
+
+	
+<div>
+
+	
+
+		
+		<a class="clrWpstofLink" href="?id=1&amp;del=11993">
+		
+	Del
+		
+		
+		</a>
+
+
+
+</div>
+
+
+		<div> <span class="czRz22z_25"> 02 Nov 2023 19:32 </span> </div></div>
+		
+	
+
+
+</div>
+
+
+</div>
+
+			
+
+				
+
+
+
+
+
+
+
+
+</div>	
+	
+	
+	))}
 
 
 
