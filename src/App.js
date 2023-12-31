@@ -13,6 +13,10 @@ import Notification from './page/notifications.js';
 
 import { Chats,Chatid } from './components/chat/chat.js';
 
+import { Hlsupport, Hlsupportwchat } from './components/help/help.js';
+
+
+
 import Manga from './components/manga/manga.js';
 import Mangalist from './components/manga/list.js';
 import Mangaview from './components/manga/view.js';
@@ -73,6 +77,14 @@ export default function App() {
 	
 	<Route path="/Chats" element={<Chats />} />
 	<Route path="/Chats/:id" element={<Chatid />} />
+	
+	
+	<Route path="/Help" element={<Hlsupport />} />
+	
+	<Route path="/Help/chat" element={<Hlsupportwchat />} />
+	
+	
+	
 	
 	
 	
